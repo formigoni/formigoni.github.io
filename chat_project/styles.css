@@ -1,0 +1,23 @@
+.container {
+  max-width: 600px;
+}
+
+/* .btn {
+  background: #439dbe;
+  color: white;
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.btn:focus {
+  outline: none !important;
+} */
+
+.username-chat {
+  font-weight: bold;
+}
+
+.time-chat {
+  font-size: 0.7em;
+  color: #999;
+}
