@@ -1,81 +1,56 @@
-//dom queries
-const chatList = document.querySelector(".chat-list");
-const newChatForm = document.querySelector(".new-chat");
-const newNameForm = document.querySelector(".new-name");
-const updateMsg = document.querySelector(".update-mssg");
-const chatRooms = document.querySelector(".chat-rooms");
+const cityForm = document.querySelector(".change-location");
+const cityName = document.querySelector("#city-name");
+const weatherCondition = document.querySelector("#weather-condition h4");
+const temp = document.querySelector("#temp");
+const card = document.querySelector('.card');
+const time = document.querySelector('img.time');
+const icon = document.querySelector('.icon img');
+const datetime = document.querySelector('#date-time');
+const forecast = new Forecast();
 
-// class instance
-const initialUsername = localStorage.chatUserName
-	? localStorage.chatUserName
-	: "noname";
-const chatroom = new Chatroom("", initialUsername);
-const chatUI = new ChatUI(chatList);
+const updateUI = ({ cityDetails, weather }) => {
 
-// set class active to button with given ID, removes active from other buttons
-activateButtonById = (id) => {
-	const buttons = chatRooms.querySelectorAll("button");
-	buttons.forEach((button) => {
-		if (button.id === id) {
-			if (!button.classList.contains("active")) {
-				button.classList.add("active");
-			}
-		} else {
-			button.classList.remove("active");
-		}
-	});
-}
-// update chat room and marks button as active
-updateChatRoom = (chatRoomName) => {
-	chatUI.clear();
-	chatroom.updateRoom(chatRoomName);
-	chatroom.getChats((data) => chatUI.renderSingleChat(data));
-	activateButtonById(chatRoomName);
-};
+	//update details template
+	cityName.textContent = `${cityDetails.LocalizedName}-${cityDetails.AdministrativeArea.ID}, ${cityDetails.AdministrativeArea.CountryID}`;
+	weatherCondition.textContent = weather.WeatherText;
+	temp.textContent = weather.Temperature.Metric.Value;
+	let textDtTime = weather.LocalObservationDateTime;
+	textDtTime = `Updated: ${textDtTime.substr(8, 2)}/${textDtTime.substr(5, 2)}/${textDtTime.substr(0, 4)} ${textDtTime.substr(11, 2)}:${textDtTime.substr(14, 2)}`
+	datetime.textContent = textDtTime;
 
-// update the chat room
-chatRooms.addEventListener("click", (e) => {
-	e.preventDefault();
-	//console.log(e.target);
-	if (e.target.tagName === "BUTTON") {
-		updateChatRoom(e.target.id);
+	//update the night/day and icon images
+	const timeSrc = weather.IsDayTime ? 'img/day.svg' : 'img/night.svg';
+	time.setAttribute('src', timeSrc);
+
+	const iconSrc = `img/icons/${weather.WeatherIcon}.svg`;
+	icon.setAttribute('src', iconSrc);
+
+	//show card if it's hidden
+	if (card.classList.contains('d-none')) {
+		card.classList.remove('d-none');
 	}
-});
+}
 
-// add a new chat
-newChatForm.addEventListener("submit", (e) => {
+cityForm.addEventListener("submit", (e) => {
+	// prevent default action
 	e.preventDefault();
-	const message = newChatForm.message.value.trim();
-	chatroom
-		.addChat(message)
-		.then(() => {
-			newChatForm.reset();
-		})
-		.catch((err) => {
-			console.log("error", err);
-		});
+
+	//update city value
+	const city = cityForm.city.value;
+	cityForm.reset();
+
+	//update UI with new city
+	forecast.updateCity(city).then((data) => {
+		console.log(data);
+		updateUI(data);
+	});
+
+	// set local storage
+	localStorage.city = city;
 });
 
-// update username
-newNameForm.addEventListener("submit", (e) => {
-	e.preventDefault();
-	const newUsername = newNameForm.name.value.trim();
-	chatroom.updateName(newUsername);
-	//update placeholder for username
-	newNameForm.name.placeholder = newUsername;
-	//reset the form
-	newNameForm.reset();
-	//show then hide the update message
-	updateMsg.innerHTML = `Your name was updated to ${newUsername}`;
-	setTimeout(() => {
-		updateMsg.innerHTML = "";
-	}, 3000);
-});
-
-// get chats and render
-updateChatRoom(
-	localStorage.chatRoomName ? localStorage.chatRoomName : "geral"
-);
-
-//update placeholder for username
-newNameForm.name.placeholder = chatroom.username;
+if (localStorage.city) {
+	forecast.updateCity(localStorage.city).then((data) => {
+		updateUI(data);
+	});
+};

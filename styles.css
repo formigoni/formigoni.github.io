@@ -1,23 +1,17 @@
+body {
+  background: #eeedec;
+  letter-spacing: 0.2em;
+  font-size: 0.8em;
+}
+
 .container {
-  max-width: 600px;
+  max-width: 400px;
 }
 
-/* .btn {
-  background: #439dbe;
-  color: white;
-  outline: none !important;
-  box-shadow: none !important;
-}
-
-.btn:focus {
-  outline: none !important;
-} */
-
-.username-chat {
-  font-weight: bold;
-}
-
-.time-chat {
-  font-size: 0.7em;
-  color: #999;
+.icon {
+  position: relative;
+  top: -50px;
+  border-radius: 50%;
+  width: 100px;
+  margin-bottom: -50px;
 }
