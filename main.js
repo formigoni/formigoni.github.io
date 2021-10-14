@@ -65,13 +65,11 @@ const getCarouselHtml = (apto) => {
 	const carouselButtons = getCarouselButtonsHtml(carouselId);
 	return `
 		<!-- Início carrossel -->
-		<div class="container-fluid my-4">
 			<div id="${carouselId}" class="carousel slide container-carousel" data-bs-ride="carousel" data-bs-interval="false">
 				${carouselIndicatorsHtml}
 				${carouselInnerHtml}
 				${carouselButtons}
 			</div>
-		</div>
 		<!-- Fim carrossel -->
 	`
 }
@@ -151,10 +149,10 @@ const getCardBodyHtml = (apto, index) => {
 		<div class="card-body">
 			${getCardTitleHtml(apto)}
 			<div class="row">
-				<div class="col">
+				<div class="col pt-2">
 					${getCarouselHtml(apto)}
 				</div>
-				<div class="col-lg-3">
+				<div class="col-lg-3 pt-2">
 					<i class="fas fa-building"></i> ${apto.imobiliaria}
 					<a href="${apto.url_anuncio}" target="_blank" class="btn btn-outline-primary d-block"><i class="bi bi-globe"></i> Anúncio Original</a>
 					${getContatosHtml(apto)}
