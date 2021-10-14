@@ -1,0 +1,726 @@
+[
+  {
+    "id": 1,
+    "cabecalho": "Prédio na Saldanha Marinho que vimos dois apartamentos. Este é o térreo",
+    "endereco": "Rua Saldanha Marinho, 2100 - Bigorrilho, Curitiba - PR",
+    "complemento_endereco": "Apto 101",
+    "contatos": [
+      {
+        "nome": "Corretora Cristina",
+        "fa_icone": "fa-female",
+        "telefone": "41 996221196",
+        "observacao": "ligou"
+      }
+    ],
+    "imobiliaria": "W Investments",
+    "informacoes": [
+      "Falei com corretora Cristina pelo telefone",
+      "Na visita estava Cristina e mais um corretor (não lembro o nome)",
+      "Proprietária acho que chama Verônica",
+      "Estado de conservação está muito bom",
+      "Desvantagem é a posição da porta da cozinha que é virada pro corredor",
+      "Pela direção em que o apartamento é virado provavelmente não pegue muito sol na sala"
+    ],
+    "url_anuncio": "https://www.vivareal.com.br/imovel/apartamento-4-quartos-bigorrilho-bairros-curitiba-com-garagem-98m2-venda-RS449900-id-2529350076/",
+    "preco": 449900,
+    "area_privativa": 98,
+    "imagens": [
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/ca74032e120703efbfc6c0ec12cda919.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/ab793d3fb4f89ce0d135c3560d523692.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/31e08d54cbefb809f25cbd8a54a98b28.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/f23870271c636d1cb2fda1c4f588d3c9.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/7d7fe6cf0faa20ae0121d46f32a6175f.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/a4d19c2495843a928e7eb30ddbd59b47.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/47afa8a711ea16f41bffc2d3c2e1f9e2.jpg",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/0c0d4916176dad5e86c7fd7c6245fe54.jpg",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/e4f805e8c9ec49911467e6d1ae0b1673.jpg",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/e4b7eda4793093d9df612ac4b2080122.jpg",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/53d478d6464d278fae4a683fc4246df3.jpg",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/089666ba9e96c7db1bcfd7c16b016568.jpg",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/03f67d232e03a07d786924184637e2e8.jpg",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/47dd2b0fb187e9aa5f67ad72f2488ab2.jpg",
+        "descricao": "Lavanderia"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/e1b9faedae8b10b0275d41997829870b.jpg",
+        "descricao": "Lavanderia"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/b5381b3e9eb8aa4a270d6adcc39391f7.jpg",
+        "descricao": "Banheiro da Suíte"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/684affa533e717061f28ad6a75261b78.jpg",
+        "descricao": "Banheiro da Suíte"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/b33561d2056634993ef1838551bd6957.jpg",
+        "descricao": "Suíte"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/efc5c387e62ad46888acf59c328b8450.jpg",
+        "descricao": "Suíte"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/78bbeae187dd77ebbdd6549e48533175.jpg",
+        "descricao": "Suíte"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/5251ca1a89c6bc72de691e427a3a89a8.jpg",
+        "descricao": "Suíte"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/8825b1e56c8f730effbc5ec69363fafb.jpg",
+        "descricao": "Banheiro Social"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/c9abc1a032e135f33f23901407d3344e.jpg",
+        "descricao": "Banheiro Social"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/903dd5cf80369b9c7855d596bd9430b7.jpg",
+        "descricao": "Quarto do Meio"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/750ee04bb45876acd4827e0b93ba1780.jpg",
+        "descricao": "Quarto do Meio"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/1cb1abbc671a4df180876ce669f264d4.jpg",
+        "descricao": "Quarto do Meio"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/4c3146c5438a7eb4bcc8b6c6d248835f.jpg",
+        "descricao": "Quarto com Armário"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/8fb8ba91801777bc501d52e123608535.jpg",
+        "descricao": "Quarto com Armário"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/dc15366138ede128a433f4a5122cf113.jpg",
+        "descricao": "Quarto com Armário"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/90dec46a692d56fba88aded046621771.jpg",
+        "descricao": "Quarto com Armário"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/29b1cdad0d8db04ebc4eb432b7511154.jpg",
+        "descricao": "Quarto com Armário"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/56c423769d381ce309ea77452628f5f4.jpg",
+        "descricao": "Quarto com Armário"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/9c16a94f57dc58c640d786a75462cdbe.jpg",
+        "descricao": "Quartinho"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/79453754dc09dbe492e9b658880b75d7.jpg",
+        "descricao": "Garagem"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/abb04a66288672357f6469c7017eeb5f.jpg",
+        "descricao": "Recepção"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/080e2a24d1b90a0b3f59446fed124233.jpg",
+        "descricao": "Recepção"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/f995d2b04595ae7661110d37b2e0ad0e.jpg",
+        "descricao": "Fachada"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/93348e5a87c08bd667910dc37ac030fd.jpg",
+        "descricao": "Fachada"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/293bb94eb76c4aa3ca10f3191d49f797.jpg",
+        "descricao": "Fachada"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/cfb65ef74820c6cae053d3ae212eb169.jpg",
+        "descricao": "Fachada"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "cabecalho": "Prédio bege com 3 andares nas Mercês - Cozinha com gavetas laranja",
+    "endereco": "Rua Visconde do Rio Branco, 256 - Mercês - Curitiba, PR",
+    "complemento_endereco": "Apto 402 Bl A",
+    "contatos": [
+      {
+        "nome": "Luciana",
+        "fa_icone": "fa-female",
+        "telefone": "",
+        "observacao": "vai ligar pra Dani"
+      },
+      {
+        "nome": "Corretora Milena",
+        "fa_icone": "fa-female",
+        "telefone": "41 99967-1974",
+        "observacao": "whatsapp Mauro"
+      },
+      {
+        "nome": "Imobiliária Razão",
+        "fa_icone": "fa-building",
+        "telefone": "41 99184-0839",
+        "observacao": "Dani ligou"
+      }
+    ],
+    "imobiliaria": "Razão",
+    "informacoes": [
+      "Piso novo, cozinha com móveis novos",
+      "Marcar visita - Imobiliária RAZÃO",
+      "Encontrei no site ImovelWeb",
+      "Vi no site da Kondor Imóveis",
+      "Falei com Milena da Imobiliária Kondor pelo Whatsapp - 41 99967-1974",
+      "A corretora disse que o imóvel está ocupado pela proprietária, mas as fotos mostram um apartamento vazio",
+      "Corretora Milena não teu retorno",
+      "Dani ligou no 99184-0839 no dia 13/out 11h59",
+      "Corretora Luciana vai ligar",
+      "A corretora Luciana disse que vai tentar marcar com a proprietária para sexta-feira 15/10, 18h"
+    ],
+    "url_anuncio": "https://www.kondorimoveis.com.br/comprar-apartamento-3-quartos-merces-curitiba-4919",
+    "preco": 370000,
+    "area_privativa": 98.28,
+    "imagens": [
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/65/65556/65556_1.jpg",
+        "descricao": "Fachada"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/65/65556/65556_2.jpg",
+        "descricao": "Fachada"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/65/65556/65556_3.jpg",
+        "descricao": "Entrada"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/65/65556/65556_4.jpg",
+        "descricao": "Entrada"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/65/65556/65556_5.jpg",
+        "descricao": "Área Comum"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/65/65556/65556_6.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/65/65556/65556_7.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/65/65556/65556_8.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/65/65556/65556_9.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/65/65556/65556_10.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/65/65556/65556_11.jpg",
+        "descricao": "Quarto"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/65/65556/65556_12.jpg",
+        "descricao": "Quarto"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/65/65556/65556_13.jpg",
+        "descricao": "Quarto"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/65/65556/65556_14.jpg",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/65/65556/65556_15.jpg",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/65/65556/65556_16.jpg",
+        "descricao": "Despensa?"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/65/65556/65556_17.jpg",
+        "descricao": "Banheiro"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/65/65556/65556_18.jpg",
+        "descricao": "Banheiro"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/65/65556/65556_19.jpg",
+        "descricao": "Lavanderia"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/65/65556/65556_20.jpg",
+        "descricao": "Garagem"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "cabecalho": "Prédio verde que as janelas não são viradas pra rua",
+    "endereco": "Alameda Cabral, 747 201 - Sao Francisco - Curitiba, PR",
+    "complemento_endereco": "2o Andar",
+    "contatos": [
+      {
+        "nome": "",
+        "fa_icone": "",
+        "telefone": "",
+        "observacao": ""
+      }
+    ],
+    "imobiliaria": "Baggio",
+    "informacoes": ["Azulejos pitorescos"],
+    "url_anuncio": "https://www.baggioimoveis.com.br/imovel/apartamento-s%C3%A3o_francisco-curitiba-BG93052001",
+    "preco": 389000,
+    "area_privativa": 121.27,
+    "imagens": [
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_1.jpg",
+        "descricao": "Fachada"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_2.jpg",
+        "descricao": "Entrada"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_3.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_4.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_5.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_6.jpg",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_7.jpg",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_8.jpg",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_9.jpg",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_10.jpg",
+        "descricao": "Área de Serviço"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_11.jpg",
+        "descricao": "Área de Serviço"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_12.jpg",
+        "descricao": "Área de Serviço"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_13.jpg",
+        "descricao": "Banheiro"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_14.jpg",
+        "descricao": "Corredor"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_15.jpg",
+        "descricao": "Quarto"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_16.jpg",
+        "descricao": "Quarto"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_17.jpg",
+        "descricao": "Quarto"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_18.jpg",
+        "descricao": "Quarto"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_19.jpg",
+        "descricao": "Banheiro"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_20.jpg",
+        "descricao": "Quarto"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_21.jpg",
+        "descricao": "Quarto"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_22.jpg",
+        "descricao": "Quarto"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_23.jpg",
+        "descricao": "Banheiro"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_24.jpg",
+        "descricao": "Banheiro"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_25.jpg",
+        "descricao": "Garagem"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_26.jpg",
+        "descricao": "Portão da Garagem"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_27.jpg",
+        "descricao": "Recepção"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_28.jpg",
+        "descricao": "Fachada"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "cabecalho": "Prédio na Praça da Ucrânia",
+    "endereco": "R. Cap. Souza Franco, 1333 - Champagnat, Curitiba - PR",
+    "complemento_endereco": "",
+    "contatos": [
+      {
+        "nome": "",
+        "fa_icone": "",
+        "telefone": "",
+        "observacao": ""
+      }
+    ],
+    "imobiliaria": "Armazém de Imóveis",
+    "informacoes": ["Não tem foto da cozinha no site", "Piso e pintura parecem bons", "Box em acrílico muito feio"],
+    "url_anuncio": "https://www.armazemdeimoveiscuritiba.com.br/imovel/apartamento-com-3-dormitorios-a-venda-91-m-por-390000-bigorrilho-curitiba-pr/AP1089-ARMC?from=sale",
+    "preco": 390000,
+    "area_privativa": 91,
+    "imagens": [
+      {
+        "url": "https://imgs.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9bJDwnbk9Kawbnev1nxMNm9yHFhIP-MQkSx9WYNv3UJFzttKwA5vntAlf777vyq3+IKrus6b6VmGo73uran4iPPZRZjQ9otvgfHaIlOMvoE-G-Y1OEYlPe1ERh3hVrqSZE94gjyV+VydUuBJYWQQ-FgdlwcJ+1-nXJKF3HE86QjwFKqA8HLJTP+4URYYX-lYCtoz5F9N4lGnUVdgqR9Qu4m9s2qFPub2JoCihipUBAow-56-X7-hkZaPK5RkVqk2dXwP61MDUbcUm+6GWehj7QEYoKGRV0HDxkKU1OMmIcynDdcalaIBn1uRSbIa7hnvlYSV1ab4a0uPZU5epvrKrazyZKG2d6jvZGarwtVB5pLLbZAZJsjqT2lVECwkcC8=.jpg",
+        "descricao": "Região"
+      },
+      {
+        "url": "https://imgs.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9bJDwnbk9Kawbnev1nxMNm9yHFhIP-MQkSx9WYNv+01QiIg39jcHysEpBb+l43KL8aCb1eWe8VmV-K3nkrf+1+TIQcD5w6YF4KH+SF7ptYprXsYZKm15eO1kRTDlVYuaIEILhCCqu2mWeOBMG3tHmgEFoi1w5WfgYJKoz0ARxT7wFKqA8HLJTP+4URYYX-lYCtoz5F9N4lGnUVdgqR9Qu4m9s2qFPub2JoCihipUBAow-56-X7-hkZaPK5RkVqk2dXwP61MDUbcUm+6GWehj7QEYoKGRV0HDxkKU1OMmIcynDdcalaIBn1uRSbIa7hnvlYSV1ab4a0uPZU5epvrKrazyZKG2d6jvZGarwtVB5pLLbZAZJsjqT2lVECwkcC8=.jpg",
+        "descricao": "Fachada"
+      },
+      {
+        "url": "https://imgs.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9bJDwnbk9Kawbnev1nxMNm9yHFhIP-MQkSx9WYNv0xk3z+9Nz0kjkcM+ToSjoQeB9JWk4-6Hon+nz8-UseuEjp7aDOTl76k2yP-4LXyNqatGHNkbNGV9Pth7ACvhdKuuPiV-mRuh+13XceZeTFEQ-lsryC1ommuUAKOxyXorjj78U6mE7y7TEvCsRRZDX7RLAtMx8E0Q4hqyW0xy8lAF7Inv5XaBOayqM8zpi38UQ0Uq65etW7Hh1pTOJdVrCuQjO3IP8VsEXewG1e2CX+Bw8gtF+ruRUkfcx1zDhrEjKsmmDNdJnqtXxV3DT7ZJvk27lNXE0KGqZhubUAB-oO3Bu6rueJHzBumvcyrgwokM5d+CbckZacipHSQfASZq.jpg",
+        "descricao": "Região"
+      },
+      {
+        "url": "https://imgs.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9bJDwnbk9Kawbnev1nxMNm9yHFhIP-MQkSx9WYNv0Rlr-P5iwCsMtdJIbLOwkXHc-qCw6-DDhxuY2YiJg7Pf2dnOc9vs4qoA07H0IFSsqZZLTf0-GEFgTNdxXjGvUp2AMmpa-higtG+Ia7V-b1pq0F0PnRJv6H2QGJGc3nsK1S7wFKqA8HLJTP+4URYYX-lYCtoz5F9N4lGnUVdgqR9Qu4m9s2qFPub2JoCihipUBAow-56-X7-hkZaPK5RkVqk2dXwP61MDUbcUm+6GWehj7QEYoKGRV0HDxkKU1OMmIcynDdcalaIBn1uRSbIa7hnvlYSV1ab4a0uPZU5epvrKrazyZKG2d6jvZGarwtVB5pLLbZAZJsjqT2lVECwkcC8=.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://imgs.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9bJDwnbk9Kawbnev1nxMNm9yHFhIP-MQkSx9WYNvy1VI0vJUyw44n+crDLCFkiCKm4if+M7Bm2GGyJnSv7Dj2v7eZu6Bl5ED1vTpK12HmoRvHsQGOk5ndtNNYRXOVdaaMUAJsjuS-HidS5hMaEpx+BEDl00Ly3GbaqGpxnBohj7wFKqA8HLJTP+4URYYX-lYCtoz5F9N4lGnUVdgqR9Qu4m9s2qFPub2JoCihipUBAow-56-X7-hkZaPK5RkVqk2dXwP61MDUbcUm+6GWehj7QEYoKGRV0HDxkKU1OMmIcynDdcalaIBn1uRSbIa7hnvlYSV1ab4a0uPZU5epvrKrazyZKG2d6jvZGarwtVB5pLLbZAZJsjqT2lVECwkcC8=.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://imgs.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9bJDwnbk9Kawbnev1nxMNm9yHFhIP-MQkSx9WYNvwlZV0cgzxw0yvdYuYpaPoCKIj6HOwfC-s3Wb+63ahbT3zNn7d9fk5rcl-evoNXqoiZxfQpk5FVhaatBgVz-kcI3ZZyBU-2mHq0vIE6sYaXtQ4SoTlDJc+gCfUcig12Mt4yGEXuyB8nTQCaC5XwwWUawNEtEw7ldR7AL0SVpntREFocalqyCZPuL1b5Wiyi1eWxVo6JOmT73nmZ7AZphmFeUmKDQJ41sRS6oF0baQTPl08g0LueWPU0XCwVqN07MkcZn5Vo1BzqoClQeXSeBOvhq8ktfH1vSvO0mAOgUgluvdrafvf6atXMbwOniih9tPtI3XPIgBZ4nkQSRKQjQtc2IO.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://imgs.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9bJDwnbk9Kawbnev1nxMNm9yHFhIP-MQkSx9WYNvox53jNRDvAsUt9ASA5WCmy+O87y46YyAm1m41Kjv4Ozk5NLuBpuF56E84PfJAkeVv6Q6b-gMHm11P9NDQgHID5q+NldTkjScnxqQT+J0ai9MhzEuzQVn23eHfcD36wUi0DiqXuyB8nTQCaC5XwwWUawNEtEw7ldR7AL0SVpntREFocalqyCZPuL1b5Wiyi1eWxVo6JOmT73nmZ7AZphmFeUmKDQJ41sRS6oF0baQTPl08g0LueWPU0XCwVqN07MkcZn5Vo1BzqoClQeXSeBOvhq8ktfH1vSvO0mAOgUgluvdrafvf6atXMbwOniih9tPtI3XPIgBZ4nkQSRKQjQtc2IO.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://imgs.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9bJDwnbk9Kawbnev1nxMNm9yHFhIP-MQkSx9WYNv2HU4wPRN2g07iZZcTI+6uQLb1a6Zx9emrmWzz7XJr+38zefHTOLY8ZEV1aSsD1q26oB0aNc+E31mf+lYYR-DZq6iPUBguiiev3fLS+JMWjdp7gYwqiZT-FazX6r09nkejj78U6mE7y7TEvCsRRZDX7RLAtMx8E0Q4hqyW0xy8lAF7Inv5XaBOayqM8zpi38UQ0Uq65etW7Hh1pTOJdVrCuQjO3IP8VsEXewG1e2CX+Bw8gtF+ruRUkfcx1zDhrEjKsmmDNdJnqtXxV3DT7ZJvk27lNXE0KGqZhubUAB-oO3Bu6rueJHzBumvcyrgwokM5d+CbckZacipHSQfASZq.jpg",
+        "descricao": "Suíte"
+      },
+      {
+        "url": "https://imgs.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9bJDwnbk9Kawbnev1nxMNm9yHFhIP-MQkSx9WYNvzm5p9sN-uhw3jZRHTYGm7S+Bgo7F4eCXsHqa6MrXnpzJ8cHWQvX8zIQZ3YDRPFyyibd5VvobHW1fPrhafRDPZKKvMnwJmD2Kq0OWX4odHVtazwwqiU5ZlX2IUsWbyHMq9TqAXuyB8nTQCaC5XwwWUawNEtEw7ldR7AL0SVpntREFocalqyCZPuL1b5Wiyi1eWxVo6JOmT73nmZ7AZphmFeUmKDQJ41sRS6oF0baQTPl08g0LueWPU0XCwVqN07MkcZn5Vo1BzqoClQeXSeBOvhq8ktfH1vSvO0mAOgUgluvdrafvf6atXMbwOniih9tPtI3XPIgBZ4nkQSRKQjQtc2IO.jpg",
+        "descricao": "Suíte"
+      },
+      {
+        "url": "https://imgs.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9bJDwnbk9Kawbnev1nxMNm9yHFhIP-MQkSx9WYNv+Ft17tVy0Q09o8MgTr2jvTXZ5KmP2+CDlGGd6snX4Y7l957CcNqBztsF9JfvDHyLvKh8RsIYIkAgPbNHGBrgAqKCGyhzkhWC42PxcZYdaDJO5FBs1R0LnwqIdJqX61duwT7wFKqA8HLJTP+4URYYX-lYCtoz5F9N4lGnUVdgqR9Qu4m9s2qFPub2JoCihipUBAow-56-X7-hkZaPK5RkVqk2dXwP61MDUbcUm+6GWehj7QEYoKGRV0HDxkKU1OMmIcynDdcalaIBn1uRSbIa7hnvlYSV1ab4a0uPZU5epvrKrazyZKG2d6jvZGarwtVB5pLLbZAZJsjqT2lVECwkcC8=.jpg",
+        "descricao": "Suíte"
+      },
+      {
+        "url": "https://imgs.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9bJDwnbk9Kawbnev1nxMNm9yHFhIP-MQkSx9WYNv2Uki3v50v0w9lfcQUrqGvS+E8Jmy++WJlhuS5M6Nm5P0+ca6Yt+Ck78E6p7zN3Cb6PdKVuN4NEJmRe1KHiH4DrirYVF6+DWzhWTKUrYfekNHwQsvs0p741SLXYSSrXUx-XumXuyB8nTQCaC5XwwWUawNEtEw7ldR7AL0SVpntREFocalqyCZPuL1b5Wiyi1eWxVo6JOmT73nmZ7AZphmFeUmKDQJ41sRS6oF0baQTPl08g0LueWPU0XCwVqN07MkcZn5Vo1BzqoClQeXSeBOvhq8ktfH1vSvO0mAOgUgluvdrafvf6atXMbwOniih9tPtI3XPIgBZ4nkQSRKQjQtc2IO.jpg",
+        "descricao": "Suíte"
+      },
+      {
+        "url": "https://imgs.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9bJDwnbk9Kawbnev1nxMNm9yHFhIP-MQkSx9WYNv-npl99A+-0xmreE2WJGUmzaA24+eovKmkUqH4o7bgJSCyOSgTd-5+NFj9q3cK1z9lLZmSfcLOBtrR-sqWED7UJvFOUdpigei-GrrT6RvRG0K3R8tvDxanEWyZsiF-mMUjj78U6mE7y7TEvCsRRZDX7RLAtMx8E0Q4hqyW0xy8lAF7Inv5XaBOayqM8zpi38UQ0Uq65etW7Hh1pTOJdVrCuQjO3IP8VsEXewG1e2CX+Bw8gtF+ruRUkfcx1zDhrEjKsmmDNdJnqtXxV3DT7ZJvk27lNXE0KGqZhubUAB-oO3Bu6rueJHzBumvcyrgwokM5d+CbckZacipHSQfASZq.jpg",
+        "descricao": "Suíte"
+      },
+      {
+        "url": "https://imgs.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9bJDwnbk9Kawbnev1nxMNm9yHFhIP-MQkSx9WYNvwG5IlcN36io-mPELc+C++ReI567F2fSWrRWO05aH573R-+ztdp+F46tvyoXaDHryo7daRMQfIml9TtQhHz77XIKvPEB1mjuygn3OdZRAXWVK-SRsgjYJ-HqlYaixpkEs7C7wFKqA8HLJTP+4URYYX-lYCtoz5F9N4lGnUVdgqR9Qu4m9s2qFPub2JoCihipUBAow-56-X7-hkZaPK5RkVqk2dXwP61MDUbcUm+6GWehj7QEYoKGRV0HDxkKU1OMmIcynDdcalaIBn1uRSbIa7hnvlYSV1ab4a0uPZU5epvrKrazyZKG2d6jvZGarwtVB5pLLbZAZJsjqT2lVECwkcC8=.jpg",
+        "descricao": "Quarto"
+      },
+      {
+        "url": "https://imgs.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9bJDwnbk9Kawbnev1nxMNm9yHFhIP-MQkSx9WYNv8Rx+2+lFyhIejJo9drqklw+15rW95-uz-AGw1JTzlpng-P-nfMzExb46zYyqCFugrKQ1SPomCFJ6aNZzRgH1dbbbZnJth2WsqUn8Q7gccWtrxgAqnx1I+XmccKmszFwa0QjwFKqA8HLJTP+4URYYX-lYCtoz5F9N4lGnUVdgqR9Qu4m9s2qFPub2JoCihipUBAow-56-X7-hkZaPK5RkVqk2dXwP61MDUbcUm+6GWehj7QEYoKGRV0HDxkKU1OMmIcynDdcalaIBn1uRSbIa7hnvlYSV1ab4a0uPZU5epvrKrazyZKG2d6jvZGarwtVB5pLLbZAZJsjqT2lVECwkcC8=.jpg",
+        "descricao": "Quarto"
+      },
+      {
+        "url": "https://imgs.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9bJDwnbk9Kawbnev1nxMNm9yHFhIP-MQkSx9WYNv5xZk1swxxxMCvuwgWo6spHS324fL9uiZrnau+a-ysL6Fx8HAdcGCx996gKDILFrpi-E9etEkK0lZVbl6XRDDQYfQZGBNuRaz-mzAZLdkUUBX0CMIuQlu4UmHTZ2g1l4uixjwFKqA8HLJTP+4URYYX-lYCtoz5F9N4lGnUVdgqR9Qu4m9s2qFPub2JoCihipUBAow-56-X7-hkZaPK5RkVqk2dXwP61MDUbcUm+6GWehj7QEYoKGRV0HDxkKU1OMmIcynDdcalaIBn1uRSbIa7hnvlYSV1ab4a0uPZU5epvrKrazyZKG2d6jvZGarwtVB5pLLbZAZJsjqT2lVECwkcC8=.jpg",
+        "descricao": "Quarto"
+      },
+      {
+        "url": "https://imgs.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9bJDwnbk9Kawbnev1nxMNm9yHFhIP-MQkSx9WYNv4GVC1490ti8BsJUIBaGTmHfCz7SQ4oaDlFSQ-4-8+peE19LFednU548wi7TSL0a+rrc6eYE5OUBhZspRahX6daOLPSB1mzO2oErtS5kYfFFt0QdvlAZ8z3W4RbaUr18X5gjwFKqA8HLJTP+4URYYX-lYCtoz5F9N4lGnUVdgqR9Qu4m9s2qFPub2JoCihipUBAow-56-X7-hkZaPK5RkVqk2dXwP61MDUbcUm+6GWehj7QEYoKGRV0HDxkKU1OMmIcynDdcalaIBn1uRSbIa7hnvlYSV1ab4a0uPZU5epvrKrazyZKG2d6jvZGarwtVB5pLLbZAZJsjqT2lVECwkcC8=.jpg",
+        "descricao": "Quarto"
+      },
+      {
+        "url": "https://imgs.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9bJDwnbk9Kawbnev1nxMNm9yHFhIP-MQkSx9WYNvpWFW4cJj1CsAu-AnZuKkpHHX793N7v6T8RuZyJTkj4z9-vyuGeGAzKUT7vb1MmmztLNAWewNInlOObl4YRrgYZueJSl6+nyxr1Trd55HfTZz9g8bvCtQ+1XmBICN238bjj78U6mE7y7TEvCsRRZDX7RLAtMx8E0Q4hqyW0xy8lAF7Inv5XaBOayqM8zpi38UQ0Uq65etW7Hh1pTOJdVrCuQjO3IP8VsEXewG1e2CX+Bw8gtF+ruRUkfcx1zDhrEjKsmmDNdJnqtXxV3DT7ZJvk27lNXE0KGqZhubUAB-oO3Bu6rueJHzBumvcyrgwokM5d+CbckZacipHSQfASZq.jpg",
+        "descricao": "Quarto"
+      },
+      {
+        "url": "https://imgs.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9bJDwnbk9Kawbnev1nxMNm9yHFhIP-MQkSx9WYNv8EZc8vNj4QYlt84Ve5+juiOj4ru-9+XHtH+OxrKNk7j36+-Ddp76wZljjIjMNGGMkYRaWuN7P0VXd+teFTjEZKKEEHRfmgeSnmaVdbplRkBf7Qw4nBNn6GekeJOF1VkPyRv5XuyB8nTQCaC5XwwWUawNEtEw7ldR7AL0SVpntREFocalqyCZPuL1b5Wiyi1eWxVo6JOmT73nmZ7AZphmFeUmKDQJ41sRS6oF0baQTPl08g0LueWPU0XCwVqN07MkcZn5Vo1BzqoClQeXSeBOvhq8ktfH1vSvO0mAOgUgluvdrafvf6atXMbwOniih9tPtI3XPIgBZ4nkQSRKQjQtc2IO.jpg",
+        "descricao": "Quarto"
+      },
+      {
+        "url": "https://imgs.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9bJDwnbk9Kawbnev1nxMNm9yHFhIP-MQkSx9WYNv8nZZ+vRX+xwOyuoER5y84iCD1Ke5vdaojEqd5qHn7pDLzu+hXfDk2IcmjKrXTlSNtrBuQt0oYlliSs9baxvjQL+PY19+mSDTkV3BFIJqc3N30DsJy0t023GlZ4K37QcQwT2EXuyB8nTQCaC5XwwWUawNEtEw7ldR7AL0SVpntREFocalqyCZPuL1b5Wiyi1eWxVo6JOmT73nmZ7AZphmFeUmKDQJ41sRS6oF0baQTPl08g0LueWPU0XCwVqN07MkcZn5Vo1BzqoClQeXSeBOvhq8ktfH1vSvO0mAOgUgluvdrafvf6atXMbwOniih9tPtI3XPIgBZ4nkQSRKQjQtc2IO.jpg",
+        "descricao": "Corredor"
+      },
+      {
+        "url": "https://imgs.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9bJDwnbk9Kawbnev1nxMNm9yHFhIP-MQkSx9WYNv2hlY0OhwyDU-w+QTWOGXuQ7X3p+X38+Q8lWJ5ZXuoJT59pzFbvyb7Y9g-6DLV1Sdt6V6RtUBGRwoQvhIVEPxYra7JHlguhbJjB6IS7sfX11czSQslFJ+wFGodr2R5Vc6gRjwFKqA8HLJTP+4URYYX-lYCtoz5F9N4lGnUVdgqR9Qu4m9s2qFPub2JoCihipUBAow-56-X7-hkZaPK5RkVqk2dXwP61MDUbcUm+6GWehj7QEYoKGRV0HDxkKU1OMmIcynDdcalaIBn1uRSbIa7hnvlYSV1ab4a0uPZU5epvrKrazyZKG2d6jvZGarwtVB5pLLbZAZJsjqT2lVECwkcC8=.jpg",
+        "descricao": "Banheiro Social"
+      },
+      {
+        "url": "https://imgs.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9bJDwnbk9Kawbnev1nxMNm9yHFhIP-MQkSx9WYNv-ER9zN5+0Ulio8EAfIGaozuhz7nPyYuGqxjGqaPov5PG6OH8AcHR1K07iaTMOGL0qZk0a+4Abm4nf9NXZxrwQoa6Y3hR8wCImETcEaEac0Fz6CQxwS55gVuYXYKU8kBp8QjwFKqA8HLJTP+4URYYX-lYCtoz5F9N4lGnUVdgqR9Qu4m9s2qFPub2JoCihipUBAow-56-X7-hkZaPK5RkVqk2dXwP61MDUbcUm+6GWehj7QEYoKGRV0HDxkKU1OMmIcynDdcalaIBn1uRSbIa7hnvlYSV1ab4a0uPZU5epvrKrazyZKG2d6jvZGarwtVB5pLLbZAZJsjqT2lVECwkcC8=.jpg",
+        "descricao": "Banheiro Suíte"
+      },
+      {
+        "url": "https://imgs.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9bJDwnbk9Kawbnev1nxMNm9yHFhIP-MQkSx9WYNvp3po0ulSvEYsnMUmc6bmvA6nm4qmuo+W90STqcz6uY3b3JivcNrUmK4ugf-RV1Wpsoh9Z9olb0V9XetZSEXzdbaxeVtVrDujpxrgYatKGFZ++CU4txNgwmmdU8Hyxl0L2QG6XuyB8nTQCaC5XwwWUawNEtEw7ldR7AL0SVpntREFocalqyCZPuL1b5Wiyi1eWxVo6JOmT73nmZ7AZphmFeUmKDQJ41sRS6oF0baQTPl08g0LueWPU0XCwVqN07MkcZn5Vo1BzqoClQeXSeBOvhq8ktfH1vSvO0mAOgUgluvdrafvf6atXMbwOniih9tPtI3XPIgBZ4nkQSRKQjQtc2IO.jpg",
+        "descricao": "Banheiro Suíte"
+      },
+      {
+        "url": "https://imgs.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9bJDwnbk9Kawbnev1nxMNm9yHFhIP-MQkSx9WYNv+mhN391E3jZ7lJU0cKPhi3iLxp2a9Y6AvmC8wYvTnuPg3s74TtnezJhmy-TOKkKWkvd9fuUsF3teZctAfUO0VI6DJyYU82KlkU-yXr5IWmsF8hMVl0h8x2qdQ4WMxnML+xjwFKqA8HLJTP+4URYYX-lYCtoz5F9N4lGnUVdgqR9Qu4m9s2qFPub2JoCihipUBAow-56-X7-hkZaPK5RkVqk2dXwP61MDUbcUm+6GWehj7QEYoKGRV0HDxkKU1OMmIcynDdcalaIBn1uRSbIa7hnvlYSV1ab4a0uPZU5epvrKrazyZKG2d6jvZGarwtVB5pLLbZAZJsjqT2lVECwkcC8=.jpg",
+        "descricao": "Banheiro Suíte"
+      },
+      {
+        "url": "https://imgs.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9bJDwnbk9Kawbnev1nxMNm9yHFhIP-MQkSx9WYNv83k-ioxv3A8frvMUfrqUsjuJ+sDOxPOrrmq-4YvwnpSDjvLeXfeCyrEczbDNS2SnuqprXdcbdn9Ha+pVdFnXD4ewHF1c+weiikTDTeF6WmpV5lg5vChIxQawX4aVzk9ojj78U6mE7y7TEvCsRRZDX7RLAtMx8E0Q4hqyW0xy8lAF7Inv5XaBOayqM8zpi38UQ0Uq65etW7Hh1pTOJdVrCuQjO3IP8VsEXewG1e2CX+Bw8gtF+ruRUkfcx1zDhrEjKsmmDNdJnqtXxV3DT7ZJvk27lNXE0KGqZhubUAB-oO3Bu6rueJHzBumvcyrgwokM5d+CbckZacipHSQfASZq.jpg",
+        "descricao": "Vista"
+      },
+      {
+        "url": "https://imgs.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9bJDwnbk9Kawbnev1nxMNm9yHFhIP-MQkSx9WYNvxl0-1Y9IxTkfyY8CTJKb4wumxau12dGW6UuLx6nyhvb21vL+ZcHpkrI0y7KiFn6JoapkRYR+PHFDWNhDRQTqaKu4LWJXgWaWvh2TFOZCUUFxhQI+sBVx-n7nb5zw5mU77AjwFKqA8HLJTP+4URYYX-lYCtoz5F9N4lGnUVdgqR9Qu4m9s2qFPub2JoCihipUBAow-56-X7-hkZaPK5RkVqk2dXwP61MDUbcUm+6GWehj7QEYoKGRV0HDxkKU1OMmIcynDdcalaIBn1uRSbIa7hnvlYSV1ab4a0uPZU5epvrKrazyZKG2d6jvZGarwtVB5pLLbZAZJsjqT2lVECwkcC8=.jpg",
+        "descricao": "Vista"
+      },
+      {
+        "url": "https://imgs.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9bJDwnbk9Kawbnev1nxMNm9yHFhIP-MQkSx9WYNv+EFK2fdHvhsGrpYCWpGYuBCq0Z2m-Yi3q0uVqb3kjo2Bi5L5AvrS56Ri+5PLNWGFuoBoYd0WNmogPvVBZALwdK2nOT1RmRihgFfDV+ZxU2dE-hppsxl63HueQcb2yV1oxhC6XuyB8nTQCaC5XwwWUawNEtEw7ldR7AL0SVpntREFocalqyCZPuL1b5Wiyi1eWxVo6JOmT73nmZ7AZphmFeUmKDQJ41sRS6oF0baQTPl08g0LueWPU0XCwVqN07MkcZn5Vo1BzqoClQeXSeBOvhq8ktfH1vSvO0mAOgUgluvdrafvf6atXMbwOniih9tPtI3XPIgBZ4nkQSRKQjQtc2IO.jpg",
+        "descricao": "Vista"
+      },
+      {
+        "url": "https://imgs.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9bJDwnbk9Kawbnev1nxMNm9yHFhIP-MQkSx9WYNvwh1OjtJ3+BoSjZsyQ6Dm7DiV496ryMaUnE640bT4uq7D0e-xe+Tcy4cAga-5SWn16oVmWeMpKlB7ZMg-dSTJAqCHLX0IsRW3l0ziQJQWTmxu0VBisyVVwge+Qaei0wQSxyWEXuyB8nTQCaC5XwwWUawNEtEw7ldR7AL0SVpntREFocalqyCZPuL1b5Wiyi1eWxVo6JOmT73nmZ7AZphmFeUmKDQJ41sRS6oF0baQTPl08g0LueWPU0XCwVqN07MkcZn5Vo1BzqoClQeXSeBOvhq8ktfH1vSvO0mAOgUgluvdrafvf6atXMbwOniih9tPtI3XPIgBZ4nkQSRKQjQtc2IO.jpg",
+        "descricao": "Recepção"
+      },
+      {
+        "url": "https://imgs.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9bJDwnbk9Kawbnev1nxMNm9yHFhIP-MQkSx9WYNv3xpMiO5gwy0PspI2RZDhhQe2+LnK4ty+pke83JfKjrGDjZOndcPlzoow26quMne3nY9ub+t+NR9leO9dX0DTeouLBGUNgjqpt0XKT79URltV+ggKrk514FGDXZ6uyHkOjj78U6mE7y7TEvCsRRZDX7RLAtMx8E0Q4hqyW0xy8lAF7Inv5XaBOayqM8zpi38UQ0Uq65etW7Hh1pTOJdVrCuQjO3IP8VsEXewG1e2CX+Bw8gtF+ruRUkfcx1zDhrEjKsmmDNdJnqtXxV3DT7ZJvk27lNXE0KGqZhubUAB-oO3Bu6rueJHzBumvcyrgwokM5d+CbckZacipHSQfASZq.jpg",
+        "descricao": "Recepção"
+      },
+      {
+        "url": "https://imgs.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9bJDwnbk9Kawbnev1nxMNm9yHFhIP-MQkSx9WYNv5x512vNv5A8Cje5AB7Gcvyi3+YypufKJi2q3ybzNmZ3E9YbcZNnnk4kn9afPLkCdq5BdZIF-Y2BBTc1qFDj0UYCfPihdpDzX-wDnbqIaR2xW+lo2ryd7-EPnUq+b7VAP1hjwFKqA8HLJTP+4URYYX-lYCtoz5F9N4lGnUVdgqR9Qu4m9s2qFPub2JoCihipUBAow-56-X7-hkZaPK5RkVqk2dXwP61MDUbcUm+6GWehj7QEYoKGRV0HDxkKU1OMmIcynDdcalaIBn1uRSbIa7hnvlYSV1ab4a0uPZU5epvrKrazyZKG2d6jvZGarwtVB5pLLbZAZJsjqT2lVECwkcC8=.jpg",
+        "descricao": "Salão de Festas?"
+      },
+      {
+        "url": "https://imgs.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9bJDwnbk9Kawbnev1nxMNm9yHFhIP-MQkSx9WYNvuX1Oyo9l5Rh7kdpGfeK3hwDf2YiJ0NbEvnTPxIvrhIqD-sGlAMjy0YEawLD6P1KjkbBFTfUDCBtSV-B4REHdYdmpNXJogxStmGSUU-5HZUx12ycFwRxwmVSYRMij+n9thT7wFKqA8HLJTP+4URYYX-lYCtoz5F9N4lGnUVdgqR9Qu4m9s2qFPub2JoCihipUBAow-56-X7-hkZaPK5RkVqk2dXwP61MDUbcUm+6GWehj7QEYoKGRV0HDxkKU1OMmIcynDdcalaIBn1uRSbIa7hnvlYSV1ab4a0uPZU5epvrKrazyZKG2d6jvZGarwtVB5pLLbZAZJsjqT2lVECwkcC8=.jpg",
+        "descricao": "Playground"
+      },
+      {
+        "url": "https://imgs.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9bJDwnbk9Kawbnev1nxMNm9yHFhIP-MQkSx9WYNvwR114vdhzwc4ttUherKJpw+hj5yq+cuFqx-Tpc3VjY7h58n+Wef69IcU1J71Q3z8nKxAGPN5N3EnTPFwABKxQNeJDGd6jiSB-kPSfoZfeUl3gFk+zS98mEaOUJ+H1GQB7AjwFKqA8HLJTP+4URYYX-lYCtoz5F9N4lGnUVdgqR9Qu4m9s2qFPub2JoCihipUBAow-56-X7-hkZaPK5RkVqk2dXwP61MDUbcUm+6GWehj7QEYoKGRV0HDxkKU1OMmIcynDdcalaIBn1uRSbIa7hnvlYSV1ab4a0uPZU5epvrKrazyZKG2d6jvZGarwtVB5pLLbZAZJsjqT2lVECwkcC8=.jpg",
+        "descricao": "Recepção"
+      },
+      {
+        "url": "https://imgs.kenlo.io/VWRCUkQ2Tnp3d1BJRDBJVe1szkhnWr9UfpZS9bJDwnbk9Kawbnev1nxMNm9yHFhIP-MQkSx9WYNvo2J99Mt-7z0JmZUdWKS1phKH0KSfvdGJs1jP1ZLmhr31-NH6YOjk0tAw2vDqPnmp7-ZYV9siLH1-ebVdbx-RVtm7HHhrpAC8nVnXF5lWWHdZ8y5iqy9ewkaXBaKX8X811z7wFKqA8HLJTP+4URYYX-lYCtoz5F9N4lGnUVdgqR9Qu4m9s2qFPub2JoCihipUBAow-56-X7-hkZaPK5RkVqk2dXwP61MDUbcUm+6GWehj7QEYoKGRV0HDxkKU1OMmIcynDdcalaIBn1uRSbIa7hnvlYSV1ab4a0uPZU5epvrKrazyZKG2d6jvZGarwtVB5pLLbZAZJsjqT2lVECwkcC8=.jpg",
+        "descricao": "Recepção"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "cabecalho": "Prédio na Prudente de Moraes, duas quadras do Festval. Com abóbora no passa-prato",
+    "endereco": "Alameda Prudente de Moraes, 342 - Centro Curitiba - PR",
+    "complemento_endereco": "",
+    "contatos": [
+      {
+        "nome": "Maria Angela",
+        "fa_icone": "fa-female",
+        "telefone": "41 99996-1121",
+        "observacao": "whatsapp Mauro"
+      }
+    ],
+    "imobiliaria": "Axis 21",
+    "informacoes": [
+      "Piso de taco parece bem bonito",
+      "Cozinha pequena mas com azulejos bonitos",
+      "Aparentemente não tem suite",
+      "Falei com Maria Angela pelo Whatsapp, pedi pra agendar visita para 15/10 - 18h40min."
+    ],
+    "url_anuncio": "https://www.axis21.com.br/imovel/apartamento-em-curitiba-pr-no-bairro-centro-1008355",
+    "preco": 440000,
+    "area_privativa": 105.61,
+    "imagens": [
+      {
+        "url": "https://cdn.vistahost.com.br/axis21im13532/vista.imobi/fotos/3926/iJ13yIMR9e8p1ULG1_39265ef5400727c4a.jpg",
+        "descricao": "Fachada"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/axis21im13532/vista.imobi/fotos/3926/iJ13yIMR9e8p1ULG1_39265ef53fa626e39.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/axis21im13532/vista.imobi/fotos/3926/iJ13yIMR9e8p1ULG1_39265ef53f944009d.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/axis21im13532/vista.imobi/fotos/3926/iJ13yIMR9e8p1ULG1_39265ef53f9c460da.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/axis21im13532/vista.imobi/fotos/3926/iJ13yIMR9e8p1ULG1_39265ef53fa1481bb.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/axis21im13532/vista.imobi/fotos/3926/iJ13yIMR9e8p1ULG1_39265ef53fab4338f.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/axis21im13532/vista.imobi/fotos/3926/iJ13yIMR9e8p1ULG1_39265ef53fafaa14a.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/axis21im13532/vista.imobi/fotos/3926/iJ13yIMR9e8p1ULG1_39265ef53fb454688.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/axis21im13532/vista.imobi/fotos/3926/iJ13yIMR9e8p1ULG1_39265ef53fa626e39.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/axis21im13532/vista.imobi/fotos/3926/iJ13yIMR9e8p1ULG1_39265ef53fb8bfc0e.jpg",
+        "descricao": "Sala/Cozinha"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/axis21im13532/vista.imobi/fotos/3926/iJ13yIMR9e8p1ULG1_39265ef53fbd76ef4.jpg",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/axis21im13532/vista.imobi/fotos/3926/iJ13yIMR9e8p1ULG1_39265ef53fc29c8d6.jpg",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/axis21im13532/vista.imobi/fotos/3926/iJ13yIMR9e8p1ULG1_39265ef53fc710850.jpg",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/axis21im13532/vista.imobi/fotos/3926/iJ13yIMR9e8p1ULG1_39265ef53fcadad11.jpg",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/axis21im13532/vista.imobi/fotos/3926/iJ13yIMR9e8p1ULG1_39265ef53fce9ecb7.jpg",
+        "descricao": "Corredor"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/axis21im13532/vista.imobi/fotos/3926/iJ13yIMR9e8p1ULG1_39265ef53fd1e671c.jpg",
+        "descricao": "Lavabo"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/axis21im13532/vista.imobi/fotos/3926/iJ13yIMR9e8p1ULG1_39265ef53fd62015e.jpg",
+        "descricao": "Banheiro"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/axis21im13532/vista.imobi/fotos/3926/iJ13yIMR9e8p1ULG1_39265ef53fdb5d9f2.jpg",
+        "descricao": "Quarto de Casal"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/axis21im13532/vista.imobi/fotos/3926/iJ13yIMR9e8p1ULG1_39265ef53fdfb139c.jpg",
+        "descricao": "Quarto de Casal"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/axis21im13532/vista.imobi/fotos/3926/iJ13yIMR9e8p1ULG1_39265ef53fe3936c9.jpg",
+        "descricao": "Quarto com duas camas"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/axis21im13532/vista.imobi/fotos/3926/iJ13yIMR9e8p1ULG1_39265ef53fe7e359f.jpg",
+        "descricao": "Quarto com duas camas"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/axis21im13532/vista.imobi/fotos/3926/iJ13yIMR9e8p1ULG1_39265ef53fec3244c.jpg",
+        "descricao": "Quarto com duas camas"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/axis21im13532/vista.imobi/fotos/3926/iJ13yIMR9e8p1ULG1_39265ef53ff83a218.jpg",
+        "descricao": "Quarto"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/axis21im13532/vista.imobi/fotos/3926/iJ13yIMR9e8p1ULG1_39265ef53ff451b60.jpg",
+        "descricao": "Quarto"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/axis21im13532/vista.imobi/fotos/3926/iJ13yIMR9e8p1ULG1_39265ef53ffd1d6c3.jpg",
+        "descricao": "Garagem"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/axis21im13532/vista.imobi/fotos/3926/iJ13yIMR9e8p1ULG1_39265ef54002140f0.jpg",
+        "descricao": "Recepção"
+      }
+    ]
+  }
+]
