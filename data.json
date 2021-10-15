@@ -4,6 +4,7 @@
     "cabecalho": "Prédio na Saldanha Marinho que vimos dois apartamentos. Este é o térreo",
     "endereco": "Rua Saldanha Marinho, 2100 - Bigorrilho, Curitiba - PR",
     "complemento_endereco": "Apto 101",
+    "visita": "09/10 - OK",
     "contatos": [
       {
         "nome": "Corretora Cristina",
@@ -192,6 +193,7 @@
     "cabecalho": "Prédio bege com 3 andares nas Mercês - Cozinha com gavetas laranja",
     "endereco": "Rua Visconde do Rio Branco, 256 - Mercês - Curitiba, PR",
     "complemento_endereco": "Apto 402 Bl A",
+    "visita": "15/10 18h",
     "contatos": [
       {
         "nome": "Luciana",
@@ -316,6 +318,7 @@
     "cabecalho": "Prédio verde que as janelas não são viradas pra rua",
     "endereco": "Alameda Cabral, 747 201 - Sao Francisco - Curitiba, PR",
     "complemento_endereco": "2o Andar",
+    "visita": "",
     "contatos": [
       {
         "nome": "",
@@ -449,6 +452,7 @@
     "cabecalho": "Prédio na Praça da Ucrânia",
     "endereco": "R. Cap. Souza Franco, 1333 - Champagnat, Curitiba - PR",
     "complemento_endereco": "",
+    "visita": "",
     "contatos": [
       {
         "nome": "",
@@ -598,11 +602,18 @@
     "cabecalho": "Prédio na Prudente de Moraes, duas quadras do Festval. Com abóbora no passa-prato",
     "endereco": "Alameda Prudente de Moraes, 342 - Centro Curitiba - PR",
     "complemento_endereco": "",
+    "visita": "15/10 18:40",
     "contatos": [
       {
         "nome": "Maria Angela",
         "fa_icone": "fa-female",
         "telefone": "41 99996-1121",
+        "observacao": "whatsapp Mauro"
+      },
+      {
+        "nome": "Fernanda",
+        "fa_icone": "fa-female",
+        "telefone": "41 9996-1166",
         "observacao": "whatsapp Mauro"
       }
     ],
@@ -729,6 +740,7 @@
     "cabecalho": "Prédio na Saldanha Marinho que vimos dois apartamentos. Este é o do primeiro andar",
     "endereco": "Rua Saldanha Marinho, 2100 - Bigorrilho, Curitiba - PR",
     "complemento_endereco": "Apto 201",
+    "visita": "09/10 - OK",
     "contatos": [
       {
         "nome": "Karina",
@@ -873,6 +885,7 @@
     "cabecalho": "Prédio atrás do Shopping Estação. Com móveis planejados excelentes.",
     "endereco": "Avenida Silva Jardim, 314, Centro, Curitiba",
     "complemento_endereco": "Andar Alto",
+    "visita": "",
     "contatos": [
       {
         "nome": "Site",
@@ -1045,5 +1058,147 @@
         "descricao": "Região"
       }
     ]
+  },
+  {
+    "id": 8,
+    "cabecalho": "Prédio na praça das Mercês, sem armários na cozinha",
+    "endereco": "Alameda Presidente Taunay, 2051 Mercês, Curitiba",
+    "complemento_endereco": "3o Andar?",
+    "visita": "",
+    "contatos": [
+      {
+        "nome": "Site",
+        "fa_icone": "fa-globe",
+        "telefone": "41 99778-5595",
+        "observacao": "whatsapp"
+      }
+    ],
+    "imobiliaria": "Valencia Gold",
+    "informacoes": ["Encontrei o anúncio no chaves na mão.", "Perguntei qual é o andar", "Nas fotos parece espaçoso mas o chão parece precisar de alguns reparos"],
+    "area_privativa": 95,
+    "imagens": [
+      {
+        "url": "https://www.chavesnamao.com.br/imn/0500x0360/N/imoveis/105514/4158770/pr-curitiba-merces-alameda-presidente-taunay-apartamento-a-venda-3-quartos-614e3a74-1.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://www.chavesnamao.com.br/imn/0500x0360/N/imoveis/105514/4158770/pr-curitiba-merces-alameda-presidente-taunay-apartamento-a-venda-3-quartos-614e3a74-2.jpg",
+        "descricao": "Sala + Cozinha"
+      },
+      {
+        "url": "https://www.chavesnamao.com.br/imn/0500x0360/N/imoveis/105514/4158770/pr-curitiba-merces-alameda-presidente-taunay-apartamento-a-venda-3-quartos-614e3a74-3.jpg",
+        "descricao": "Sala + Cozinha"
+      },
+      {
+        "url": "https://www.chavesnamao.com.br/imn/0500x0360/N/imoveis/105514/4158770/pr-curitiba-merces-alameda-presidente-taunay-apartamento-a-venda-3-quartos-614e3a74-4.jpg",
+        "descricao": "Sala + Cozinha"
+      },
+      {
+        "url": "https://www.chavesnamao.com.br/imn/0500x0360/N/imoveis/105514/4158770/pr-curitiba-merces-alameda-presidente-taunay-apartamento-a-venda-3-quartos-614e3a74-5.jpg",
+        "descricao": "Cozinha + Corredor"
+      },
+      {
+        "url": "https://www.chavesnamao.com.br/imn/0500x0360/N/imoveis/105514/4158770/pr-curitiba-merces-alameda-presidente-taunay-apartamento-a-venda-3-quartos-614e3a74-6.jpg",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://www.chavesnamao.com.br/imn/0500x0360/N/imoveis/105514/4158770/pr-curitiba-merces-alameda-presidente-taunay-apartamento-a-venda-3-quartos-614e3a74-7.jpg",
+        "descricao": "Cozinha + Corredor"
+      },
+      {
+        "url": "https://www.chavesnamao.com.br/imn/0500x0360/N/imoveis/105514/4158770/pr-curitiba-merces-alameda-presidente-taunay-apartamento-a-venda-3-quartos-614e3a74-8.jpg",
+        "descricao": "Cozinha + Corredor"
+      },
+      {
+        "url": "https://www.chavesnamao.com.br/imn/0500x0360/N/imoveis/105514/4158770/pr-curitiba-merces-alameda-presidente-taunay-apartamento-a-venda-3-quartos-614e3a74-9.jpg",
+        "descricao": "Sala + Cozinha"
+      },
+      {
+        "url": "https://www.chavesnamao.com.br/imn/0500x0360/N/imoveis/105514/4158770/pr-curitiba-merces-alameda-presidente-taunay-apartamento-a-venda-3-quartos-614e3a74-10.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://www.chavesnamao.com.br/imn/0500x0360/N/imoveis/105514/4158770/pr-curitiba-merces-alameda-presidente-taunay-apartamento-a-venda-3-quartos-614e3a74-11.jpg",
+        "descricao": "Sala + Cozinha"
+      },
+      {
+        "url": "https://www.chavesnamao.com.br/imn/0500x0360/N/imoveis/105514/4158770/pr-curitiba-merces-alameda-presidente-taunay-apartamento-a-venda-3-quartos-614e3a74-12.jpg",
+        "descricao": "Sala + Cozinha"
+      },
+      {
+        "url": "https://www.chavesnamao.com.br/imn/0500x0360/N/imoveis/105514/4158770/pr-curitiba-merces-alameda-presidente-taunay-apartamento-a-venda-3-quartos-614e3a74-13.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://www.chavesnamao.com.br/imn/0500x0360/N/imoveis/105514/4158770/pr-curitiba-merces-alameda-presidente-taunay-apartamento-a-venda-3-quartos-614e3a74-14.jpg",
+        "descricao": "Sala + Cozinha"
+      },
+      {
+        "url": "https://www.chavesnamao.com.br/imn/0500x0360/N/imoveis/105514/4158770/pr-curitiba-merces-alameda-presidente-taunay-apartamento-a-venda-3-quartos-614e3a74-15.jpg",
+        "descricao": "Cozinha + Corredor"
+      },
+      {
+        "url": "https://www.chavesnamao.com.br/imn/0500x0360/N/imoveis/105514/4158770/pr-curitiba-merces-alameda-presidente-taunay-apartamento-a-venda-3-quartos-614e3a74-16.jpg",
+        "descricao": "Área de Serviço"
+      },
+      {
+        "url": "https://www.chavesnamao.com.br/imn/0500x0360/N/imoveis/105514/4158770/pr-curitiba-merces-alameda-presidente-taunay-apartamento-a-venda-3-quartos-614e3a74-17.jpg",
+        "descricao": "Área de Serviço"
+      },
+      {
+        "url": "https://www.chavesnamao.com.br/imn/0500x0360/N/imoveis/105514/4158770/pr-curitiba-merces-alameda-presidente-taunay-apartamento-a-venda-3-quartos-614e3a74-18.jpg",
+        "descricao": "Quarto (risco no chão)"
+      },
+      {
+        "url": "https://www.chavesnamao.com.br/imn/0500x0360/N/imoveis/105514/4158770/pr-curitiba-merces-alameda-presidente-taunay-apartamento-a-venda-3-quartos-614e3a74-19.jpg",
+        "descricao": "Quarto (risco no chão)"
+      },
+      {
+        "url": "https://www.chavesnamao.com.br/imn/0500x0360/N/imoveis/105514/4158770/pr-curitiba-merces-alameda-presidente-taunay-apartamento-a-venda-3-quartos-614e3a74-20.jpg",
+        "descricao": "Quarto (risco no chão)"
+      },
+      {
+        "url": "https://www.chavesnamao.com.br/imn/0500x0360/N/imoveis/105514/4158770/pr-curitiba-merces-alameda-presidente-taunay-apartamento-a-venda-3-quartos-614e3a74-21.jpg",
+        "descricao": "Quarto (guarda roupa desmontado)"
+      },
+      {
+        "url": "https://www.chavesnamao.com.br/imn/0500x0360/N/imoveis/105514/4158770/pr-curitiba-merces-alameda-presidente-taunay-apartamento-a-venda-3-quartos-614e3a74-22.jpg",
+        "descricao": "Corredor"
+      },
+      {
+        "url": "https://www.chavesnamao.com.br/imn/0500x0360/N/imoveis/105514/4158770/pr-curitiba-merces-alameda-presidente-taunay-apartamento-a-venda-3-quartos-614e3a74-23.jpg",
+        "descricao": "Suíte"
+      },
+      {
+        "url": "https://www.chavesnamao.com.br/imn/0500x0360/N/imoveis/105514/4158770/pr-curitiba-merces-alameda-presidente-taunay-apartamento-a-venda-3-quartos-614e3a74-24.jpg",
+        "descricao": "Quarto (guarda roupa desmontado)"
+      },
+      {
+        "url": "https://www.chavesnamao.com.br/imn/0500x0360/N/imoveis/105514/4158770/pr-curitiba-merces-alameda-presidente-taunay-apartamento-a-venda-3-quartos-614e3a74-25.jpg",
+        "descricao": "Suíte"
+      },
+      {
+        "url": "https://www.chavesnamao.com.br/imn/0500x0360/N/imoveis/105514/4158770/pr-curitiba-merces-alameda-presidente-taunay-apartamento-a-venda-3-quartos-614e3a74-26.jpg",
+        "descricao": "Suíte"
+      },
+      {
+        "url": "https://www.chavesnamao.com.br/imn/0500x0360/N/imoveis/105514/4158770/pr-curitiba-merces-alameda-presidente-taunay-apartamento-a-venda-3-quartos-614e3a74-27.jpg",
+        "descricao": "Suíte"
+      },
+      {
+        "url": "https://www.chavesnamao.com.br/imn/0500x0360/N/imoveis/105514/4158770/pr-curitiba-merces-alameda-presidente-taunay-apartamento-a-venda-3-quartos-614e3a74-28.jpg",
+        "descricao": "Corredor"
+      },
+      {
+        "url": "https://www.chavesnamao.com.br/imn/0500x0360/N/imoveis/105514/4158770/pr-curitiba-merces-alameda-presidente-taunay-apartamento-a-venda-3-quartos-614e3a74-29.jpg",
+        "descricao": "Banheiro da Suíte"
+      },
+      {
+        "url": "https://www.chavesnamao.com.br/imn/0500x0360/N/imoveis/105514/4158770/pr-curitiba-merces-alameda-presidente-taunay-apartamento-a-venda-3-quartos-614e3a74-30.jpg",
+        "descricao": "Quarto (risco no chão)"
+      }
+    ],
+    "preco": 415000,
+    "url_anuncio": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-3-quartos-com-garagem-pr-curitiba-merces-152m2-RS415000/id-4158770/?gal=1"
   }
 ]
