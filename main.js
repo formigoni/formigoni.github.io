@@ -26,7 +26,7 @@ const getCarouselHtml = (apto) => {
 
 	const getCarouselIndicatorHtml = (images, idCarousel) => {
 		let resultHtml = '<div class="carousel-indicators">';
-		images.forEach((image, index) => {
+		images?.forEach((image, index) => {
 			resultHtml = resultHtml + `<button type="button" data-bs-target="#${idCarousel}" data-bs-slide-to="${index}" 
 					${index === 0 ? "class=\"active\" aria-current=\"true\"" : ""}  aria-label="${image.descricao}"></button>`;
 		});
@@ -36,10 +36,13 @@ const getCarouselHtml = (apto) => {
 
 	const getCarouselInnerHtml = (images) => {
 		let resultHtml = '<div class="carousel-inner">';
-		images.forEach((image, index) => {
+		images?.forEach((image, index) => {
 			resultHtml = resultHtml + `
 				<div class="carousel-item ${index === 0 ? "active" : ""}">
 					<img src="${image.url}" class="d-block w-100" alt="${image.descricao}" />
+					<div class="carousel-caption d-block">
+						<h5>${image.descricao}</h5>
+					</div>					
 				</div>`;
 		});
 		resultHtml = resultHtml + '</div>';
@@ -76,7 +79,7 @@ const getCarouselHtml = (apto) => {
 
 const getInfosHtmlListGroup = (apto) => {
 	let resultHtml = '<ul class="list-group list-group-flush">';
-	resultHtml = resultHtml + apto.informacoes.map((informacao) => {
+	resultHtml = resultHtml + apto.informacoes?.map((informacao) => {
 		return `<li class="list-group-item">${informacao}</li>`;
 	}).join("");
 	resultHtml = resultHtml + '</ul>';
@@ -85,7 +88,7 @@ const getInfosHtmlListGroup = (apto) => {
 
 const getInfosHtmlFlex = (apto) => {
 	let resultHtml = '<div class="d-flex flex-wrap">';
-	resultHtml = resultHtml + apto.informacoes.map((informacao) => {
+	resultHtml = resultHtml + apto.informacoes?.map((informacao) => {
 		return `<div class="p-1 m-1 border border-info rounded-1">${informacao}</div>`;
 	}).join("");
 	resultHtml = resultHtml + '</div>';
@@ -105,14 +108,20 @@ const getCardHeaderHtml = (apto, index) => {
 	return `
 		<div class="card-header bg-dark text-light" id="heading_id_${apto.id}">
 			<h5 class="mb-0">
-				<button class="btn btn-outline-secondary text-light mb-2 mb-lg-0" data-bs-toggle="collapse" data-bs-target="#collapse_id_${apto.id}" aria-expanded="${index === -10 ? "true" : "false"}" aria-controls="collapse_id_${apto.id}">
-					${apto.cabecalho}
-				</button>
-				<div class="float-lg-end">
-					<i class="fas fa-ruler-combined"></i>
-					<span>${apto.area_privativa.toLocaleString()} m&sup2;</span> 
-					<i class="fas fa-money-bill-wave"></i>
-					<span>${apto.preco.toLocaleString()}</span> 
+				<div class="row">
+					<div class="col-lg-8">
+						<button class="btn btn-outline-secondary text-light mb-2 mb-lg-0 w-100" data-bs-toggle="collapse" data-bs-target="#collapse_id_${apto.id}" aria-expanded="${index === -10 ? "true" : "false"}" aria-controls="collapse_id_${apto.id}">
+							${apto.cabecalho}
+						</button>
+					</div>
+					<div class="col-6 col-lg-2">
+						<i class="fas fa-ruler-combined"></i>
+						<span>${apto.area_privativa?.toLocaleString()} m&sup2;</span> 
+					</div>
+					<div class="col-6 col-lg-2">
+						<i class="fas fa-dollar-sign"></i>
+						<span>${apto.preco?.toLocaleString()}</span> 
+					</div>
 				</div>
 			</h5>
 				
@@ -122,7 +131,7 @@ const getCardHeaderHtml = (apto, index) => {
 
 const getContatosHtml = (apto) => {
 	let resultHtml = '<ul class="list-group my-1">';
-	apto.contatos.forEach((contato) => {
+	apto.contatos?.forEach((contato) => {
 		resultHtml = resultHtml +
 			`
 			<li class="list-group-item"> 

@@ -723,5 +723,327 @@
         "descricao": "Recepção"
       }
     ]
+  },
+  {
+    "id": 6,
+    "cabecalho": "Prédio na Saldanha Marinho que vimos dois apartamentos. Este é o do primeiro andar",
+    "endereco": "Rua Saldanha Marinho, 2100 - Bigorrilho, Curitiba - PR",
+    "complemento_endereco": "Apto 201",
+    "contatos": [
+      {
+        "nome": "Karina",
+        "fa_icone": "fa-female",
+        "telefone": "41 ??",
+        "observacao": "whatsapp Dani"
+      }
+    ],
+    "imobiliaria": "Imobilliare",
+    "informacoes": [
+      "Corretora Karina - Telefone está no whatsapp da Dani",
+      "Estado de conservação bom.",
+      "O piso precisa ser lixado e passado synteko.",
+      "Precisa de pintura.",
+      "Os banheiros estão um pouco feios. Teria que trocar os espelhos.",
+      "Os guarda-roupas são feios. Talvez trocar as portas."
+    ],
+    "url_anuncio": "https://www.vivareal.com.br/imovel/apartamento-3-quartos-bigorrilho-bairros-curitiba-com-garagem-99m2-venda-RS415000-id-2514754786/",
+    "preco": 415000,
+    "area_privativa": 99,
+    "imagens": [
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/ee256ad5f53ddd751769d393d40a749d.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/3be6c10bcf10e806f8806c929ff8213b.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/4251794c7f5e38b6b59c016b7d7539c9.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/d0d29d169b3926d41823c0cef16a6577.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/664247464d0476670b586753f2f16b52.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/0a7aad56f2c2159dac1c6be64653fbda.jpg",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/9e3ebf51160ccb53dbed1def9c7aca34.jpg",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/0e0b17f36de5f9d2fdfcc4869f44b36c.jpg",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/d46d28666aaaa6b78e3ecf4b67199dff.jpg",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/e9f3ba7fe6ff228e288b953d81a17066.jpg",
+        "descricao": "Quarto do Menino"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/ac9a343251d6173e3d1fa46d7090913c.jpg",
+        "descricao": "Quarto do Menino"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/030ee0f6737c9cda0e98aa120b7daa04.jpg",
+        "descricao": "Quarto do Menino"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/ce3ad84ccc6cc7776ef31219eb233ff6.jpg",
+        "descricao": "Quarto do Menino"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/025e599f4ff390b33ca5231763035214.jpg",
+        "descricao": "Banheiro Social"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/1e5877f46b9edce60bb15fc5a288b698.jpg",
+        "descricao": "Banheiro Social"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/4971f6e983d0aec6d40b14c3af20751f.jpg",
+        "descricao": "Quarto da Menina"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/f8978dad475a3e464bfc92585e892c11.jpg",
+        "descricao": "Quarto da Menina"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/d1fd3ebf2587973209f0a10f9674805e.jpg",
+        "descricao": "Quarto da Menina"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/38ace61f3aaa66e4e73621b9ff38f789.jpg",
+        "descricao": "Suíte"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/aa0c57c5cfe94dffee9619d270df2df1.jpg",
+        "descricao": "Suíte"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/2081735f4a212657b6d1bec4ac336179.jpg",
+        "descricao": "Suíte"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/44c8528a52e330dd042df3ac88df8d82.jpg",
+        "descricao": "Suíte"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/2127208ab3f6d76a12591afd891cb1a0.jpg",
+        "descricao": "Banheiro da Suíte"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/41155a22651ce3a87d56133ef30ee01c.jpg",
+        "descricao": "Garagem"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/b6ee80b860cc45c58b32bdc09fbf1d81.jpg",
+        "descricao": "Garagem"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/c5f6b5769b3eeff7bf2f1d51f50df441.jpg",
+        "descricao": "Recepção"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/d6c02fa3ce1ebb00a1738498d364af98.jpg",
+        "descricao": "Recepção"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/770ebf6a078e6d80ec76c5df79033af1.jpg",
+        "descricao": "Fachada"
+      },
+      {
+        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/c9442e14dfa01c73f637efcd74a43484.jpg",
+        "descricao": "Fachada"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "cabecalho": "Prédio atrás do Shopping Estação. Com móveis planejados excelentes.",
+    "endereco": "Avenida Silva Jardim, 314, Centro, Curitiba",
+    "complemento_endereco": "Andar Alto",
+    "contatos": [
+      {
+        "nome": "Site",
+        "fa_icone": "fa-globe",
+        "telefone": "41 98421-6165",
+        "observacao": "whatsapp"
+      }
+    ],
+    "imobiliaria": "Apolar",
+    "informacoes": [
+      "Móveis planejados muito bonitos",
+      "Estava em negociação mas parece que não está mais",
+      "Pelo jeito não tem suíte",
+      "A garagem aparementemente não é livre (vai um carro atrás do outro)"
+    ],
+    "url_anuncio": "https://www.apolar.com.br/venda/curitiba/centro/venda-residencial-apartamento-curitiba-centro-923752",
+    "preco": 450000,
+    "area_privativa": 91.73,
+    "imagens": [
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/151_37_1_1630x1080.jpg",
+        "descricao": "Região"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/31_1_1_1630x1080.jpg",
+        "descricao": "Fachada"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/31_2_1_1630x1080.jpg",
+        "descricao": "Região"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/31_3_1_1630x1080.jpg",
+        "descricao": "Fachada"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/34_4_1_1630x1080.jpg",
+        "descricao": "Entrada"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/29_5_1_1630x1080.jpg",
+        "descricao": "Lavabo"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/2_6_1_1630x1080.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/2_7_1_1630x1080.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/2_8_1_1630x1080.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/2_9_1_1630x1080.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/7_10_1_1630x1080.jpg",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/7_11_1_1630x1080.jpg",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/7_12_1_1630x1080.jpg",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/7_13_1_1630x1080.jpg",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/7_14_1_1630x1080.jpg",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/7_15_1_1630x1080.jpg",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/7_16_1_1630x1080.jpg",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/5_17_1_1630x1080.jpg",
+        "descricao": "Área de Serviço"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/5_18_1_1630x1080.jpg",
+        "descricao": "Área de Serviço"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/5_19_1_1630x1080.jpg",
+        "descricao": "Área de Serviço"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/5_20_1_1630x1080.jpg",
+        "descricao": "Área de Serviço"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/78_21_1_1630x1080.jpg",
+        "descricao": "Corredor"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/30_22_1_1630x1080.jpg",
+        "descricao": "Banheiro Social"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/1_23_1_1630x1080.jpg",
+        "descricao": "Quarto"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/1_24_1_1630x1080.jpg",
+        "descricao": "Quarto"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/80_25_1_1630x1080.jpg",
+        "descricao": "Quarto 2"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/80_26_1_1630x1080.jpg",
+        "descricao": "Quarto 2"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/80_27_1_1630x1080.jpg",
+        "descricao": "Quarto 2"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/83_28_1_1630x1080.jpg",
+        "descricao": "Quarto 3"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/83_29_1_1630x1080.jpg",
+        "descricao": "Quarto 3"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/83_30_1_1630x1080.jpg",
+        "descricao": "Quarto 3"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/152_31_1_1630x1080.jpg",
+        "descricao": "Vista"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/152_32_1_1630x1080.jpg",
+        "descricao": "Vista"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/46_33_1_1630x1080.jpg",
+        "descricao": "Garagem"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/165_34_1_1630x1080.jpg",
+        "descricao": "Bicicletário"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/13_35_1_1630x1080.jpg",
+        "descricao": "Salão de Jogos"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/151_36_1_1630x1080.jpg",
+        "descricao": "Região"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/571942/Fotos/151_37_1_1630x1080.jpg",
+        "descricao": "Região"
+      }
+    ]
   }
 ]
