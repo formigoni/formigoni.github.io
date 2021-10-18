@@ -20,7 +20,9 @@
       "Proprietária acho que chama Verônica",
       "Estado de conservação está muito bom",
       "Desvantagem é a posição da porta da cozinha que é virada pro corredor",
-      "Pela direção em que o apartamento é virado provavelmente não pegue muito sol na sala"
+      "Pela direção em que o apartamento é virado provavelmente não pegue muito sol na sala",
+      "Tinha um banheiro e quarto de empregada que foi convertido em um novo quarto. Ficou bom",
+      "A vaga de garagem é boa. Não precisa muita manobra."
     ],
     "url_anuncio": "https://www.vivareal.com.br/imovel/apartamento-4-quartos-bigorrilho-bairros-curitiba-com-garagem-98m2-venda-RS449900-id-2529350076/",
     "preco": 449900,
@@ -193,19 +195,13 @@
     "cabecalho": "Prédio bege com 3 andares nas Mercês - Cozinha com gavetas laranja",
     "endereco": "Rua Visconde do Rio Branco, 256 - Mercês - Curitiba, PR",
     "complemento_endereco": "Apto 402 Bl A",
-    "visita": "15/10 18h",
+    "visita": "15/10 - OK",
     "contatos": [
       {
         "nome": "Luciana",
         "fa_icone": "fa-female",
         "telefone": "",
         "observacao": "vai ligar pra Dani"
-      },
-      {
-        "nome": "Corretora Milena",
-        "fa_icone": "fa-female",
-        "telefone": "41 99967-1974",
-        "observacao": "whatsapp Mauro"
       },
       {
         "nome": "Imobiliária Razão",
@@ -225,7 +221,14 @@
       "Corretora Milena não teu retorno",
       "Dani ligou no 99184-0839 no dia 13/out 11h59",
       "Corretora Luciana vai ligar",
-      "A corretora Luciana disse que vai tentar marcar com a proprietária para sexta-feira 15/10, 18h"
+      "A corretora Luciana disse que vai tentar marcar com a proprietária para sexta-feira 15/10, 18h",
+      "Visitado. Móveis estão bons mesmo",
+      "Porta de correr está ruim",
+      "Não tem suíte. O segundo banheiro é na área de serviço",
+      "Sala é um pouco pequena",
+      "Azulejos muito bons nos banheiros e na cozinha",
+      "A porta da cozinha dá pro corredor. Talvez teria que trocar, abrir uma porta para sala.",
+      "A vaga de garagem é boa, bem espaçoca e fácil de manobrar. É uma vaga meio enviezada que tem uma carretinha no fundo"
     ],
     "url_anuncio": "https://www.kondorimoveis.com.br/comprar-apartamento-3-quartos-merces-curitiba-4919",
     "preco": 370000,
@@ -310,140 +313,6 @@
       {
         "url": "https://www.kondorimoveis.com.br/images/imoveis/65/65556/65556_20.jpg",
         "descricao": "Garagem"
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "cabecalho": "Prédio verde que as janelas não são viradas pra rua",
-    "endereco": "Alameda Cabral, 747 201 - Sao Francisco - Curitiba, PR",
-    "complemento_endereco": "2o Andar",
-    "visita": "",
-    "contatos": [
-      {
-        "nome": "",
-        "fa_icone": "",
-        "telefone": "",
-        "observacao": ""
-      }
-    ],
-    "imobiliaria": "Baggio",
-    "informacoes": ["Azulejos pitorescos"],
-    "url_anuncio": "https://www.baggioimoveis.com.br/imovel/apartamento-s%C3%A3o_francisco-curitiba-BG93052001",
-    "preco": 389000,
-    "area_privativa": 121.27,
-    "imagens": [
-      {
-        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_1.jpg",
-        "descricao": "Fachada"
-      },
-      {
-        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_2.jpg",
-        "descricao": "Entrada"
-      },
-      {
-        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_3.jpg",
-        "descricao": "Sala"
-      },
-      {
-        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_4.jpg",
-        "descricao": "Sala"
-      },
-      {
-        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_5.jpg",
-        "descricao": "Sala"
-      },
-      {
-        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_6.jpg",
-        "descricao": "Cozinha"
-      },
-      {
-        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_7.jpg",
-        "descricao": "Cozinha"
-      },
-      {
-        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_8.jpg",
-        "descricao": "Cozinha"
-      },
-      {
-        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_9.jpg",
-        "descricao": "Cozinha"
-      },
-      {
-        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_10.jpg",
-        "descricao": "Área de Serviço"
-      },
-      {
-        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_11.jpg",
-        "descricao": "Área de Serviço"
-      },
-      {
-        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_12.jpg",
-        "descricao": "Área de Serviço"
-      },
-      {
-        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_13.jpg",
-        "descricao": "Banheiro"
-      },
-      {
-        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_14.jpg",
-        "descricao": "Corredor"
-      },
-      {
-        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_15.jpg",
-        "descricao": "Quarto"
-      },
-      {
-        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_16.jpg",
-        "descricao": "Quarto"
-      },
-      {
-        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_17.jpg",
-        "descricao": "Quarto"
-      },
-      {
-        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_18.jpg",
-        "descricao": "Quarto"
-      },
-      {
-        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_19.jpg",
-        "descricao": "Banheiro"
-      },
-      {
-        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_20.jpg",
-        "descricao": "Quarto"
-      },
-      {
-        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_21.jpg",
-        "descricao": "Quarto"
-      },
-      {
-        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_22.jpg",
-        "descricao": "Quarto"
-      },
-      {
-        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_23.jpg",
-        "descricao": "Banheiro"
-      },
-      {
-        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_24.jpg",
-        "descricao": "Banheiro"
-      },
-      {
-        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_25.jpg",
-        "descricao": "Garagem"
-      },
-      {
-        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_26.jpg",
-        "descricao": "Portão da Garagem"
-      },
-      {
-        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_27.jpg",
-        "descricao": "Recepção"
-      },
-      {
-        "url": "https://www.kondorimoveis.com.br/images/imoveis/68/68800/68800_28.jpg",
-        "descricao": "Fachada"
       }
     ]
   },
@@ -602,7 +471,7 @@
     "cabecalho": "Prédio na Prudente de Moraes, duas quadras do Festval. Com abóbora no passa-prato",
     "endereco": "Alameda Prudente de Moraes, 342 - Centro Curitiba - PR",
     "complemento_endereco": "",
-    "visita": "15/10 18:40",
+    "visita": "15/10 OK",
     "contatos": [
       {
         "nome": "Maria Angela",
@@ -623,7 +492,13 @@
       "Cozinha pequena mas com azulejos bonitos",
       "Não tem suite",
       "Falei com Maria Angela pelo Whatsapp, pedi pra agendar visita para 15/10 - 18h40min.",
-      "São 3 banheiros. 1 de empregada e dois ao lado dos quartos"
+      "São 3 banheiros. 1 de empregada e dois ao lado dos quartos",
+      "Visitamos. A proprietária é Dona Neiva",
+      "O apartamento está muito bom. Piso bom. Bom espaço",
+      "A cozinha de fato é pequena.",
+      "Tem um quarto de empregada que é grande e meio que só serve de depósito",
+      "Pé direito alto",
+      "A vaga de garagem é ruim. Fica atrás da escada/elevador."
     ],
     "url_anuncio": "https://www.axis21.com.br/imovel/apartamento-em-curitiba-pr-no-bairro-centro-1008355",
     "preco": 440000,
@@ -740,7 +615,7 @@
     "cabecalho": "Prédio na Saldanha Marinho que vimos dois apartamentos. Este é o do primeiro andar",
     "endereco": "Rua Saldanha Marinho, 2100 - Bigorrilho, Curitiba - PR",
     "complemento_endereco": "Apto 201",
-    "visita": "09/10 - OK",
+    "visita": "09/10 OK",
     "contatos": [
       {
         "nome": "Karina",
@@ -885,13 +760,19 @@
     "cabecalho": "Prédio atrás do Shopping Estação. Com móveis planejados excelentes.",
     "endereco": "Avenida Silva Jardim, 314, Centro, Curitiba",
     "complemento_endereco": "Andar Alto",
-    "visita": "",
+    "visita": "18/10 14:30",
     "contatos": [
+      {
+        "nome": "Junior",
+        "fa_icone": "fa-male",
+        "telefone": "41 99528-8300",
+        "observacao": "whatsapp Mauro"
+      },
       {
         "nome": "Site",
         "fa_icone": "fa-globe",
         "telefone": "41 98421-6165",
-        "observacao": "whatsapp"
+        "observacao": "whatsapp Mauro"
       }
     ],
     "imobiliaria": "Apolar",
@@ -899,7 +780,8 @@
       "Móveis planejados muito bonitos",
       "Estava em negociação mas parece que não está mais",
       "Pelo jeito não tem suíte",
-      "A garagem aparementemente não é livre (vai um carro atrás do outro)"
+      "A garagem aparementemente não é livre (vai um carro atrás do outro)",
+      "Falei com Junior em 18/out. Pedi pra agendar visita."
     ],
     "url_anuncio": "https://www.apolar.com.br/venda/curitiba/centro/venda-residencial-apartamento-curitiba-centro-923752",
     "preco": 450000,
@@ -1074,7 +956,13 @@
       }
     ],
     "imobiliaria": "Valencia Gold",
-    "informacoes": ["Encontrei o anúncio no chaves na mão.", "Perguntei qual é o andar", "Nas fotos parece espaçoso mas o chão parece precisar de alguns reparos"],
+    "informacoes": [
+      "Encontrei o anúncio no chaves na mão.",
+      "Perguntei qual é o andar",
+      "Nas fotos parece espaçoso mas o chão parece precisar de alguns reparos",
+      "Mandei mensagem pra marcar visita mas não respondeu.",
+      "Encontrei o mesmo apartamento em outro site Vila Alta, tentei agendar visita"
+    ],
     "area_privativa": 95,
     "imagens": [
       {
@@ -1200,5 +1088,272 @@
     ],
     "preco": 415000,
     "url_anuncio": "https://www.chavesnamao.com.br/imovel/apartamento-a-venda-3-quartos-com-garagem-pr-curitiba-merces-152m2-RS415000/id-4158770/?gal=1"
+  },
+  {
+    "id": 9,
+    "cabecalho": "Edifício Ucayali. Perto do Pão de Açucar Champagnat",
+    "endereco": "Rua Martim Afonso, 2169 - Champagnat, Curitiba - PR",
+    "complemento_endereco": "2o Andar",
+    "visita": "18/10 OK",
+    "contatos": [
+      {
+        "nome": "André Azevedo",
+        "fa_icone": "fa-male",
+        "telefone": "41 99932-9398",
+        "observacao": "whatsapp Mauro"
+      }
+    ],
+    "imobiliaria": "Galvão",
+    "informacoes": [
+      "Visitado. Móveis estão bons mesmo",
+      "Planejado no quarto está excelente.",
+      "Móveis da cozinha são bons (mas não excelentes)",
+      "Tem um painel na sala que talvez precise tirar",
+      "Tem uma mesa de 2x1m então cabe a nossa",
+      "Proprietário Sr. Ricardo",
+      "Vaga de garagem é boa. Cabem dois carros",
+      "Condomínio 440 reais já incluída água",
+      "Pega sol de manhã na sala e nos quartos",
+      "Lavanderia pelo jeito não tem muito som",
+      "Janela do banheiro enferrujada",
+      "Tem suíte"
+    ],
+    "imagens": [
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e8dbfef1.jpg",
+        "descricao": "Fachada"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e5dd8420.jpg",
+        "descricao": "Suíte"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e5edb261.jpg",
+        "descricao": "Suíte"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e5fa398a.jpg",
+        "descricao": "Suíte"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e607018d.jpg",
+        "descricao": "Suíte"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e6150775.jpg",
+        "descricao": "Suíte"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e623e6cc.jpg",
+        "descricao": "Suíte"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e6310061.jpg",
+        "descricao": "Suíte"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e63ef5b0.jpg",
+        "descricao": "Sacada"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e64d0cb1.jpg",
+        "descricao": "Sacada"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e65e4ee8.jpg",
+        "descricao": "Vista da Sacada"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e66cc29c.jpg",
+        "descricao": "Vista da Sacada"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e6785bfc.jpg",
+        "descricao": "Banheiro da Suíte"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e6856292.jpg",
+        "descricao": "Banheiro da Suíte"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e6948840.jpg",
+        "descricao": "Banheiro Social"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e6a36e0c.jpg",
+        "descricao": "Banheiro Social"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e6b254a3.jpg",
+        "descricao": "Quarto 1"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e6c35fb0.jpg",
+        "descricao": "Quarto 1"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e6d0944b.jpg",
+        "descricao": "Quarto 1"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e6ddb807.jpg",
+        "descricao": "Quarto 1"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e6eb2bee.jpg",
+        "descricao": "Quarto 1"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e6faa070.jpg",
+        "descricao": "Vista Quarto 1"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e707e45d.jpg",
+        "descricao": "Quarto 2"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e718a0b5.jpg",
+        "descricao": "Quarto 2"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e7275714.jpg",
+        "descricao": "Quarto 2"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e736ade7.jpg",
+        "descricao": "Quarto 2"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e747b638.jpg",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e75408e0.jpg",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e763a529.jpg",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e77404bd.jpg",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e780566e.jpg",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e78e5c0f.jpg",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e79d730d.jpg",
+        "descricao": "Área de Serviço"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e7acede2.jpg",
+        "descricao": "Área de Serviço"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e7bbc5a1.jpg",
+        "descricao": "Vista Área de Serviço"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e7c85660.jpg",
+        "descricao": "Banheiro Empregada"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e7d35f51.jpg",
+        "descricao": "Corredor"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e7e12551.jpg",
+        "descricao": "Corredor"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e7ec96fd.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e7f85eb8.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e807ea8e.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e813bff5.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e82073ee.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e8300876.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e83cd23a.jpg",
+        "descricao": "Vista da Sala"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e84df873.jpg",
+        "descricao": "Vista da Sala"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e85ebadd.jpg",
+        "descricao": "Vista da Sala"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e86aaf70.jpg",
+        "descricao": "Garagem"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e87da373.jpg",
+        "descricao": "Garagem"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e88ae7dc.jpg",
+        "descricao": "Bicicletário"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e8995a67.jpg",
+        "descricao": "Porta do Bloco"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e8a86097.jpg",
+        "descricao": "Circulação Condomínio"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e8b8a337.jpg",
+        "descricao": "Circulação Condomínio"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e8cb9672.jpg",
+        "descricao": "Circulação Condomínio"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e8eca51d.jpg",
+        "descricao": "Região"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e8fe9375.jpg",
+        "descricao": "Região"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e90cd017.jpg",
+        "descricao": "Região"
+      },
+      {
+        "url": "https://cdn.vistahost.com.br/nazarepl/vista.imobi/fotos/13796/i46297121fud09_1379660e31e91bd425.jpg",
+        "descricao": "Região"
+      }
+    ],
+    "area_privativa": 96,
+    "preco": 398000,
+    "url_anuncio": "https://galvaovendas.com/imovel/44435/apartamento-3-quartos-bigorrilho-curitiba/?finalide=venda"
   }
 ]

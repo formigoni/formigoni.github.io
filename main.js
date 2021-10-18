@@ -68,7 +68,7 @@ const getCarouselHtml = (apto) => {
 	const carouselButtons = getCarouselButtonsHtml(carouselId);
 	return `
 		<!-- Início carrossel -->
-			<div id="${carouselId}" class="carousel slide container-carousel" data-bs-ride="carousel" data-bs-interval="false">
+			<div id="${carouselId}" class="carousel container-carousel" data-bs-ride="carousel" data-bs-interval="false">
 				${carouselIndicatorsHtml}
 				${carouselInnerHtml}
 				${carouselButtons}
