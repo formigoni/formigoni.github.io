@@ -345,10 +345,6 @@
     "area_privativa": 99,
     "imagens": [
       {
-        "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/ee256ad5f53ddd751769d393d40a749d.jpg",
-        "descricao": "Sala"
-      },
-      {
         "url": "https://resizedimgs.vivareal.com/fit-in/870x653/vr.images.sp/3be6c10bcf10e806f8806c929ff8213b.jpg",
         "descricao": "Sala"
       },
@@ -678,7 +674,7 @@
       "Vaga de garagem é boa. Cabem dois carros",
       "Condomínio 440 reais já incluída água",
       "Pega sol de manhã na sala e nos quartos",
-      "Lavanderia pelo jeito não tem muito som",
+      "Lavanderia pelo jeito não tem muito sol",
       "Janela do banheiro enferrujada",
       "Tem suíte"
     ],
@@ -919,5 +915,314 @@
     "area_privativa": 96,
     "preco": 398000,
     "url_anuncio": "https://galvaovendas.com/imovel/44435/apartamento-3-quartos-bigorrilho-curitiba/?finalide=venda"
+  },
+  {
+    "id": 10,
+    "cabecalho": "Visconde do Rio Branco - apartamento da Dona Vilma",
+    "endereco": "Rua Visconde do Rio Branco, 200 - Mercês, Curitiba - PR",
+    "complemento_endereco": "Último Andar",
+    "visita": "29/10 OK",
+    "contatos": [
+      {
+        "nome": "Dona Rosa",
+        "fa_icone": "fa-female",
+        "telefone": "41 9921-5842",
+        "observacao": "whatsapp Mauro"
+      }
+    ],
+    "imobiliaria": "TDI",
+    "informacoes": [
+      "Achei o anúncio no ImovelWeb por 430mil. A imobiliária era TDI",
+      "Em 03/nov vi que o anúncio no ImovelWeb foi encerrado",
+      "Encontrei ele anunciado no OLX em outra imobiliária: Erig Imóveis",
+      "Visitei o apto sozinho e depois com a Dani, a corretora é Dona Rosa",
+      "Tem uma sala de estar um pouco pequena",
+      "A sala de jantar é separada da sala de estar",
+      "Vaga de garagem é boa. Tem a opção de alugar a vaga de garagem ao lado",
+      "Condomínio +- 400 reais já incluída água",
+      "Bem bom de sol",
+      "Tem suíte"
+    ],
+    "imagens": [
+      {
+        "url": "https://www.infocenterhost2.com.br/crm/fotosimovel/1811007/396411658-apartamento-curitiba-merces_1090.jpg",
+        "descricao": ""
+      },
+      {
+        "url": "https://www.infocenterhost2.com.br/crm/fotosimovel/1811007/396411427-apartamento-curitiba-merces_1090.jpg",
+        "descricao": ""
+      },
+      {
+        "url": "https://www.infocenterhost2.com.br/crm/fotosimovel/1811007/396411422-apartamento-curitiba-merces_1090.jpg",
+        "descricao": ""
+      },
+      {
+        "url": "https://www.infocenterhost2.com.br/crm/fotosimovel/1811007/396411423-apartamento-curitiba-merces_1090.jpg",
+        "descricao": ""
+      },
+      {
+        "url": "https://www.infocenterhost2.com.br/crm/fotosimovel/1811007/396411425-apartamento-curitiba-merces_1090.jpg",
+        "descricao": ""
+      },
+      {
+        "url": "https://www.infocenterhost2.com.br/crm/fotosimovel/1811007/396411420-apartamento-curitiba-merces_1090.jpg",
+        "descricao": ""
+      },
+      {
+        "url": "https://www.infocenterhost2.com.br/crm/fotosimovel/1811007/396411421-apartamento-curitiba-merces_1090.jpg",
+        "descricao": ""
+      },
+      {
+        "url": "https://www.infocenterhost2.com.br/crm/fotosimovel/1811007/396411430-apartamento-curitiba-merces_1090.jpg",
+        "descricao": ""
+      },
+      {
+        "url": "https://www.infocenterhost2.com.br/crm/fotosimovel/1811007/396411655-apartamento-curitiba-merces_1090.jpg",
+        "descricao": ""
+      },
+      {
+        "url": "https://www.infocenterhost2.com.br/crm/fotosimovel/1811007/396411656-apartamento-curitiba-merces_1090.jpg",
+        "descricao": ""
+      },
+      {
+        "url": "https://www.infocenterhost2.com.br/crm/fotosimovel/1811007/396411657-apartamento-curitiba-merces_1090.jpg",
+        "descricao": ""
+      },
+      {
+        "url": "https://www.infocenterhost2.com.br/crm/fotosimovel/1811007/396411658-apartamento-curitiba-merces_1090.jpg",
+        "descricao": ""
+      }
+    ],
+    "area_privativa": 92.71,
+    "preco": 420000,
+    "url_anuncio": "https://erigimoveis.com.br//imovel/venda/1811007"
+  },
+  {
+    "id": 11,
+    "cabecalho": "Térreo na Martim Afonso. Prédio verde do lado da barbearia",
+    "endereco": "Rua Martim Afonso, 1067, Mercês, Curitiba - PR",
+    "complemento_endereco": "apto 21",
+    "visita": "04/11 - OK",
+    "contatos": [
+      {
+        "nome": "Ana",
+        "fa_icone": "fa-female",
+        "telefone": "41 9179-9070",
+        "observacao": "whatsapp Mauro"
+      }
+    ],
+    "imobiliaria": "Apolar Champagnat",
+    "informacoes": [
+      "Tem um prédio laranja de um lado e uma barbearia do outro.",
+      "Sala parece ser bem grande",
+      "Pisos bonitos",
+      "Cozinha parece um pouco pequena",
+      "Tem suíte e closet",
+      "Visitado. Bem espaçoso. Sala e suíte são bem espaçosos.",
+      "O piso precisa ser lixado e passado synteko.",
+      "Os móveis dos quartos estão muito bons",
+      "A cozinha não é tão pequena quanto parece.",
+      "Janela da sala e a janela dos quartos ficam viradas para a barbearia.",
+      "Janela da lavanderia, da cozinha e dos banheiros ficam virados pro prédio laranja, mas o prédio não faz sombra",
+      "Garagem é boa! Cabe um carro e mais umas coisas atrás (talvez as bikes). Algumas tem armários"
+    ],
+    "imagens": [
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/770313/Fotos/31_1_1_1630x1080.jpg",
+        "descricao": "Fachada"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/770313/Fotos/31_2_1_1630x1080.jpg",
+        "descricao": "Fachada"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/770313/Fotos/2_4_1_1630x1080.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/770313/Fotos/2_5_1_1630x1080.jpg",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/770313/Fotos/7_6_1_1630x1080.jpg",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/770313/Fotos/7_7_1_1630x1080.jpg",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/770313/Fotos/1_8_1_1630x1080.jpg",
+        "descricao": "Quarto 1"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/770313/Fotos/1_10_1_1630x1080.jpg",
+        "descricao": "Quarto 1"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/770313/Fotos/30_11_1_1630x1080.jpg",
+        "descricao": "Banheiro Social"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/770313/Fotos/80_12_1_1630x1080.jpg",
+        "descricao": "Quarto 2"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/770313/Fotos/80_13_1_1630x1080.jpg",
+        "descricao": "Quarto 2"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/770313/Fotos/80_14_1_1630x1080.jpg",
+        "descricao": "Quarto 2"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/770313/Fotos/25_15_1_1630x1080.jpg",
+        "descricao": "Suíte"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/770313/Fotos/25_16_1_1630x1080.jpg",
+        "descricao": "Suite"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/770313/Fotos/25_17_1_1630x1080.jpg",
+        "descricao": "Closet"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/770313/Fotos/55_18_1_1630x1080.jpg",
+        "descricao": "Banheiro Suíte"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/770313/Fotos/5_19_1_1630x1080.jpg",
+        "descricao": "Área de Serviço"
+      },
+      {
+        "url": "https://cachefotos.apolar.net/Fotos/770313/Fotos/238_20_1_1630x1080.jpg",
+        "descricao": "Garagem"
+      }
+    ],
+    "area_privativa": 114.73,
+    "url_anuncio": "https://www.apolar.com.br/venda/curitiba/merces/venda-residencial-apartamento-curitiba-merces-933940",
+    "preco": 430000
+  },
+  {
+    "id": 12,
+    "cabecalho": "Prédio alto meio rosa na Augusto Stellfeld",
+    "endereco": "Augusto Stellfeld, 891, Centro, Curitiba - PR",
+    "complemento_endereco": "Apto 1101, 11º Andar",
+    "visita": "05/11 - OK",
+    "contatos": [
+      {
+        "nome": "Filipe",
+        "fa_icone": "fa-male",
+        "telefone": "43 9998-1938",
+        "observacao": "whatsapp Mauro"
+      }
+    ],
+    "imobiliaria": "Kondor",
+    "informacoes": [
+      "O apartamento é da Kondor mas o corretor é da Vila Alta Premium",
+      "O apartamento está em inventário",
+      "Condomínio um pouco caro: 800 reais",
+      "Ver se tem funcionário 24h no condomínio, por isso que encarece a taxa",
+      "Tem carpet. Precisa tirar",
+      "Confirmar se a estante em L fica no imóvel",
+      "Portas dos armários da cozinha e dos quartos parecem ruins.",
+      "Visitado. Bom de sol! Carpet precisa tirar. Móveis estão ruins",
+      "Fachada está sendo reformada. Previsão para final desse ano, mas pelo jeito demora mais",
+      "Banheiro da suíte é bem grande. Banheiro social é bem pequeno!"
+    ],
+    "url_anuncio": "https://www.kondorimoveis.com.br/comprar-apartamento-3-quartos-centro-curitiba-94214001",
+    "preco": 420000,
+    "area_privativa": 92.66,
+    "imagens": [
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/70/70945/70945_1.jpg?x=8141",
+        "descricao": "Fachada"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/70/70945/70945_2.jpg?x=467",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/70/70945/70945_3.jpg?x=6764",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/70/70945/70945_4.jpg?x=5336",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/70/70945/70945_5.jpg?x=6159",
+        "descricao": "Sala"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/70/70945/70945_6.jpg?x=2698",
+        "descricao": "Vista"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/70/70945/70945_7.jpg?x=9257",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/70/70945/70945_8.jpg?x=2312",
+        "descricao": "Cozinha"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/70/70945/70945_9.jpg?x=1938",
+        "descricao": "Área de Serviço"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/70/70945/70945_10.jpg?x=728",
+        "descricao": "Banheiro (suíte?)"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/70/70945/70945_11.jpg?x=5460",
+        "descricao": "Suíte"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/70/70945/70945_12.jpg?x=5775",
+        "descricao": "Banheiro Social"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/70/70945/70945_13.jpg?x=5023",
+        "descricao": "Quarto 1"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/70/70945/70945_14.jpg?x=8817",
+        "descricao": "Quarto 1"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/70/70945/70945_15.jpg?x=8606",
+        "descricao": "Quarto 2"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/70/70945/70945_16.jpg?x=1756",
+        "descricao": "Quarto 2"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/70/70945/70945_17.jpg?x=3288",
+        "descricao": "Quarto 2"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/70/70945/70945_18.jpg?x=4481",
+        "descricao": "Playground"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/70/70945/70945_19.jpg?x=1333",
+        "descricao": "Playground"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/70/70945/70945_20.jpg?x=3528",
+        "descricao": "Bicicletário"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/70/70945/70945_21.jpg?x=7668",
+        "descricao": "Garagem"
+      },
+      {
+        "url": "https://www.kondorimoveis.com.br/images/imoveis/70/70945/70945_22.jpg?x=2922",
+        "descricao": "Portão"
+      }
+    ]
   }
 ]

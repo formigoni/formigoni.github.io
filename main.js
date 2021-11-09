@@ -108,27 +108,24 @@ const getCardHeaderHtml = (apto, index) => {
 	return `
 		<div class="card-header bg-dark text-light" id="heading_id_${apto.id}">
 			<h5 class="mb-0">
-				<div class="row g-0">
-					<div class="col-lg-8 pe-2">
-						<button class="btn btn-outline-secondary text-light mb-2 mb-lg-0 w-100" data-bs-toggle="collapse" data-bs-target="#collapse_id_${apto.id}" aria-expanded="${index === -22 ? "true" : "false"}" aria-controls="collapse_id_${apto.id}">
+				<div class="btn btn-outline-secondary text-light mb-2 mb-lg-0 w-100" data-bs-toggle="collapse" data-bs-target="#collapse_id_${apto.id}" aria-expanded="${index === -22 ? "true" : "false"}" aria-controls="collapse_id_${apto.id}">
+					<div class="row g-0">
+						<div class="col-lg-8 pe-2 mb-2">
 							${apto.cabecalho}
-						</button>
-					</div>
-					<div class="col-4 col-lg-1">
-						<!-- i class="fas fa-ruler-combined"></i -->
-						<span>${Math.round(apto.area_privativa)?.toLocaleString()} m&sup2;</span> 
-					</div>
-					<div class="col-4 col-lg-2">
-						<i class="far fa-calendar-alt"></i>
-						<span>${apto.visita}</span> 
-					</div>
-					<div class="col-4 col-lg-1">
-						<!-- i class="fas fa-dollar-sign"></i -->
-						<span>${apto.preco?.toLocaleString()}</span> 
+						</div>
+						<div class="col-4 col-lg-1">
+							<span>${Math.round(apto.area_privativa)?.toLocaleString()} m&sup2;</span> 
+						</div>
+						<div class="col-4 col-lg-2">
+							<i class="far fa-calendar-alt"></i>
+							<span>${apto.visita}</span> 
+						</div>
+						<div class="col-4 col-lg-1">
+							<span>${apto.preco?.toLocaleString()}</span> 
+						</div>
 					</div>
 				</div>
 			</h5>
-				
 		</div>
 	`;
 };
@@ -180,7 +177,7 @@ const getCardBodyHtml = (apto, index) => {
 };
 const addCard = (apto, index) => {
 	const novoCardHtml = `
-	<div class="card my-3">
+	<div class="card my-1">
 		${getCardHeaderHtml(apto, index)}
 		${getCardBodyHtml(apto, index)}
 	</div>`;
